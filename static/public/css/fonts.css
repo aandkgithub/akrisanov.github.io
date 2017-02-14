@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'firasans';
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Regular.eot');
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Regular.eot') format("embedded-opentype"), url('//code.cdn.mozilla.net/fonts/woff/FiraSans-Regular.woff') format("woff"), url('//code.cdn.mozilla.net/fonts/ttf/FiraSans-Regular.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'firasans';
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Italic.eot');
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Italic.eot') format("embedded-opentype"), url('//code.cdn.mozilla.net/fonts/woff/FiraSans-Italic.woff') format("woff"), url('//code.cdn.mozilla.net/fonts/ttf/FiraSans-Italic.ttf') format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'firasans';
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Light.eot');
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraSans-Light.eot') format("embedded-opentype"), url('//code.cdn.mozilla.net/fonts/woff/FiraSans-Light.woff') format("woff"), url('//code.cdn.mozilla.net/fonts/ttf/FiraSans-Light.ttf') format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'firamono';
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraMono-Regular.eot');
+  src: url('//code.cdn.mozilla.net/fonts/eot/FiraMono-Regular.eot') format("embedded-opentype"), url('//code.cdn.mozilla.net/fonts/woff/FiraMono-Regular.woff') format("woff"), url('//code.cdn.mozilla.net/fonts/ttf/FiraMono-Regular.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
