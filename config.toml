@@ -4,15 +4,15 @@ title        = "Software Engineer (Go, JavaScript, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
-enableRobotsTXT  = true   # Suggested, enable robots.txt file
-googleAnalytics  = ""     # Optional, add tracking Id for analytics
-disqusShortname  = ""     # Optional, add Disqus shortname for comments
+enableRobotsTXT  = true
+googleAnalytics  = ""
+disqusShortname  = "akrisanov"
+toc              = true
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]
   description = """Work mostly on backends in Go and Ruby.
                    Having fun with JavaScript (God bless ES6/7), Node.js, React, React Native, PWA.
-                   Can design, implement and maintain product infrastructure running on AWS.
                    Interested in functional programming (Scala, JavaScript), large scale distributed systems,
                    big data and machine learning."""
   author      = "Andrey Krisanov" # Optional, controls author name display on posts
