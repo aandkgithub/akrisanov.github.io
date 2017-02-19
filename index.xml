@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineer (Go, JavaScript, Ruby)</title>
+    <link>https://akrisanov.com/index.xml</link>
+    <description>Recent content on Software Engineer (Go, JavaScript, Ruby)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Oct 2016 00:16:19 +0000</lastBuildDate>
+    <atom:link href="https://akrisanov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Переезд в Германию. Получение оффера</title>
+      <link>https://akrisanov.com/2016/10/30/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</link>
+      <pubDate>Sun, 30 Oct 2016 00:16:19 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/2016/10/30/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;пролог&#34;&gt;Пролог&lt;/h2&gt;
+
+&lt;p&gt;Еще в университете я начал размышлять о переезде в другую страну. Рассматривал разные варианты - США, Англия, Дания, Швейцария.
+Читал статьи на Хабре, форумы и прочие ресурсы. И все думал &amp;ldquo;нужно подтянуть язык, навыки, а потом уже пробовать переезжать&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;К слову универ я окончил в 2011 году. Через год женился, еще через год родился сын,
+нашел высокооплачиваемую работу (120 тыс., а затем 200 тыс. для Брянска - огромные деньги).
+Что еще нужно для счастья?&lt;/p&gt;
+
+&lt;p&gt;Во всей этой повседневной суете, куче обещанных перспектив в компании,
+нехватке времени на подготовку и изучение английского потерялось на некоторое время и мое желание куда-то ехать.
+Были инвайты на интервью в Facebook, Amazon, Google  и пр. Отказывался из-за неуверенности в себе.&lt;/p&gt;
+
+&lt;p&gt;И вот, наконец, этим летом что-то стукнуло в голову, и я начал спонтанно рассылать резюме.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;интервью&#34;&gt;Интервью&lt;/h2&gt;
+
+&lt;p&gt;Я разослал резюме примерно в десяток небольших компаний в Германии, Швеции, Швейцарии и Дании.
+Две-три компании ответили сразу отказом, т.к. не могли предоставить визу. От остальных ответ приходил через неделю-две.
+Но самым быстрым способом получения фидбека от компаний оказался &lt;a href=&#34;http://relocateme.eu/&#34;&gt;http://relocateme.eu/&lt;/a&gt;.
+Именно через этих ребят я и вышел на моего текущего работадателя.&lt;/p&gt;
+
+&lt;p&gt;Собеседование проходило в несколько этапов:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skype-звонок с Relocateme.me для прояснения информации обо мне и моих желаниях;&lt;/li&gt;
+&lt;li&gt;Отправка резюме;&lt;/li&gt;
+&lt;li&gt;Первое Skype-интервью с техническим директором компании. Разговор о предыдущих местах работы, общие вопросы по технологиями;&lt;/li&gt;
+&lt;li&gt;Тестовое задание;&lt;/li&gt;
+&lt;li&gt;Второе Skype-интервью по тестовому заданию с техническим директором и ведущим разработчиком.
+Обсуждали архитектуру, тестирование, масштабирование моего решения.&lt;/li&gt;
+&lt;li&gt;Skype-интервью с внутренним HR компании. HR оказалась русскоязычной.&lt;/li&gt;
+&lt;li&gt;Переговоры о зарплате, условиях, дате выхода на работу.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;Разработчик уровня Senior с 5 годами опыта может рассчитывать от 50-55 тыс. в год.
+Знаю людей, которые переезжали и на 75-90 тыс.
+Так же компании обычно предоставляют релокационный пакет в размере от 1-2 тыс. евро.
+Вы можете тратить эту сумму на перелет, перевоз вещей, съем жилья.&lt;/p&gt;
+
+&lt;h2 id=&#34;оффер&#34;&gt;Оффер&lt;/h2&gt;
+
+&lt;p&gt;В сумме процесс занял около двух недель. Позже я получил оффер в Берлин, но он был не таким привлекательным.
+Так же &amp;ldquo;проснулись&amp;rdquo; другие компании и начали звать на собеседования, пришлось копировать вежливое письмо с отказом.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;В следующем посте опишу процесс получения виз.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Reading Digest #2</title>
+      <link>https://akrisanov.com/2016/05/15/the-reading-digest-2/</link>
+      <pubDate>Sun, 15 May 2016 00:23:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/2016/05/15/the-reading-digest-2/</guid>
+      <description>
+
+&lt;h3 id=&#34;2&#34;&gt;#2:&lt;/h3&gt;
+
+&lt;p&gt;Автор статьи на примере 7 советов показывает как важно понимать БД даже если
+вы работает с ActiveRecord в Rails и не хотите спускаться до уровня SQL запросов.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.benroux.me/be-the-better-rails-developer/&#34;&gt;Be The Better Rails Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Периодически стоит напоминать себе об основах безопасности при разработке приложений
+и не надеятся на то, что фреймворк все сделает за вас. В видео с RailsConf 2015
+Justin Collins объясняет какие возможности Ruby on Rails предоставляет разработчику &amp;ldquo;из коробки&amp;rdquo;,
+а так же о чем стоит позаботиться самостоятельно.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rorsecurity.info/portfolio/video-the-world-of-rails-security&#34;&gt;Video: The World of Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Вы еще не слышали по каким-то причинам про контейнеры и Docker или не можете
+понять хайпа вокруг них? Тогда обязательно прочтите приведенную ниже статью.
+Возможно после нее вы измените свой подход к окружению разработки.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/&#34;&gt;Why You Should Stop Installing Your WebDev Environment Locally&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Отличный сайт-введение для студентов и тех, кто пропустил основы Computer Science.
+Разрабатывается при поддержке Google.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.csfieldguide.org.nz/en/index.html&#34;&gt;Computer Science Field Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Мегаполезный список ресурсов для тех, кто интересуется Machine Learning, Data Science
+и пр. горячими на сегодняшний день областями.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/&#34;&gt;Top Data Scientists to Follow &amp;amp; Best Data Science Tutorials on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Лучшие выступления на тему Data Science на PyCon Montreal 2015.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/&#34;&gt;Best Data Science talks from PyCon Montreal 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Reading Digest #1</title>
+      <link>https://akrisanov.com/2016/04/18/the-reading-digest-1/</link>
+      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/2016/04/18/the-reading-digest-1/</guid>
+      <description>&lt;p&gt;У меня не всегда получается писать в блог из-за нехватки времени или банально хороших идей.
+Но каждые выходные я обязательно читаю накопившиеся в RSS, рассылках, Twitter статьи.
+Часто попадаются довольно полезные заметки которыми хочется поделиться и применить в своей работе.&lt;/p&gt;
+
+&lt;p&gt;Поэтому решил начать публиковать свой The Reading Digest.&lt;/p&gt;
+
+&lt;p&gt;Итак&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;1&#34;&gt;#1:&lt;/h3&gt;
+
+&lt;p&gt;Незнание того, что же из себя представляет кодировка, до сих пор порождает кучу проблем. Чтобы окончательно разобраться с этой темой, прочтите:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kunststube.net/encoding/&#34;&gt;What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/Unicode.html&#34;&gt;The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Если вы задумались о переезде в США и еще не определись с компанией и городом, вам
+может помочь статья Tyler Geonetta о стоимости жизни и уровне зарплат в том или ином штате:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tgeonetta.com/cost-of-living-vs-salary-best-cities-for-software-developers-and-engineers/&#34;&gt;Cost of Living vs Salary – Best Cities for Software Developers and Engineers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Небезызвестная компания Spotify в своем блоге рассказывает о процессе найма инженеров.
+Если вы задумывались об интервью в Spotify, настоятельно рекомендую к прочтению перед началом подготовки:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/04/01/how-we-do-recruitment-at-spotify/&#34;&gt;How we do recruitment at Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Avdi Grimm рассказывает про стратегии диспетчеризации в Ruby и приводит примеры их оптимизаций:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://devblog.avdi.org/2015/06/03/benchmarking-ruby-dispatch-strategies/&#34;&gt;Benchmarking Ruby Dispatch Strategies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Хороший вводный материал по Clojure для тех, кто никогда не сталкивался с функциональными языками:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.moxleystratton.com/blog/2008/05/01/clojure-tutorial-for-the-non-lisp-programmer/&#34;&gt;Clojure Tutorial for the Non-Lisp Programmer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Текущее положение дел в SVG анимации:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html&#34;&gt;The State of SVG Animation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Мартин Фаулер в своем докладе объясняет что такое Continuous Delivery, какую роль она играет в процессе деплоя, а так же разницу между непрерывной доставкой (Continuous Delivery) и непрерывным деплоем (Continuous Deployment). Видео полезно не только для DevOps.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=aoMfbgF2D_4&#34;&gt;Martin Fowler – Continuous Delivery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Игнорирование документации gem-ов по умолчанию</title>
+      <link>https://akrisanov.com/2016/04/18/ignoring-ruby-gems-documentation-by-default/</link>
+      <pubDate>Mon, 18 Apr 2016 00:19:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/2016/04/18/ignoring-ruby-gems-documentation-by-default/</guid>
+      <description>&lt;p&gt;На окружениях отличных от разработки нет необходимости устанавливать документацию
+используемых библиотек. Это экономит время деплоя или обновления приложения.&lt;/p&gt;
+
+&lt;p&gt;Достаточно добавить в &lt;code&gt;~/.gemrc&lt;/code&gt; следующую строку:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;gem: --no-document
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
