@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./hugo server -w -b ""
+hugo server -w -b ""

@@ -1,6 +1,0 @@
----
-indexes:
- locale: 'locales'
- tag: 'tags'
-baseurl: http://akrisanov.com
----
