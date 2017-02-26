@@ -25,7 +25,7 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   images      = []                # Suggested, adds default OpenGraph image
 
 [params.seo.webmaster_verifications]
-  google = "" # Optional, Google verification code
+  google = "EciQ4PNrvJi6zwm0o058Y6ERxdF1pcUPQEidccORsLI" # Optional, Google verification code
   bing   = "" # Optional, Bing verification code
   alexa  = "" # Optional, Alexa verification code
   yandex = "" # Optional, Yandex verification code
