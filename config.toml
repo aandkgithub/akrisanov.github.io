@@ -26,6 +26,6 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params.seo.webmaster_verifications]
   google = "EciQ4PNrvJi6zwm0o058Y6ERxdF1pcUPQEidccORsLI" # Optional, Google verification code
-  bing   = "" # Optional, Bing verification code
+  bing   = "88ED584660D28721AA9E00590ABA227F"            # Optional, Bing verification code
   alexa  = "" # Optional, Alexa verification code
   yandex = "" # Optional, Yandex verification code
