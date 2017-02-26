@@ -1,4 +1,4 @@
-baseurl      = "https://akrisanov.com"
+baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
 title        = "Software Engineer (Go, JavaScript, Ruby)"
 paginate     = 5
