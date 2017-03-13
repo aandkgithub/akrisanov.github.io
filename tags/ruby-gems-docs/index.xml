@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruby Gems Docs on Software Engineer (Go, JavaScript, Ruby)</title>
+    <title>Ruby Gems Docs on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core / F#)</title>
     <link>https://akrisanov.com/tags/ruby-gems-docs/index.xml</link>
-    <description>Recent content in Ruby Gems Docs on Software Engineer (Go, JavaScript, Ruby)</description>
+    <description>Recent content in Ruby Gems Docs on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core / F#)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="https://akrisanov.com/tags/ruby-gems-docs/index.xml" rel="self" type="application/rss+xml" />
