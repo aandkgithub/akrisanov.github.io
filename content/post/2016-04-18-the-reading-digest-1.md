@@ -1,10 +1,9 @@
 ---
-comments: true
-date: 2016-04-18T00:23:29Z
-tags: encoding, USA, salary, Spotify, Ruby, Clojure, benchmarking, SVG, Continuous
-  Delivery
 title: 'The Reading Digest #1'
-url: /2016/04/18/the-reading-digest-1/
+date: "2016-04-18T00:23:29Z"
+tags: ["encoding", "USA", "salary", "Spotify", "Ruby", "Clojure", "benchmarking", "SVG", "Continuous Delivery"]
+comments: "true"
+flag: "ru"
 ---
 
 У меня не всегда получается писать в блог из-за нехватки времени или банально хороших идей.

@@ -1,9 +1,9 @@
 ---
-comments: true
-date: 2016-05-15T00:23:29Z
-tags: null
-title: 'The Reading Digest #2'
-url: /2016/05/15/the-reading-digest-2/
+title: "The Reading Digest #2"
+date: "2016-05-15T00:23:29Z"
+tags: "[]"
+comments: "true"
+flag: "ru"
 ---
 
 ### #2:

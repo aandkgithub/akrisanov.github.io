@@ -1,9 +1,9 @@
 ---
-comments: true
-date: 2016-04-18T00:19:29Z
-tags: ruby, gems, docs
-title: Игнорирование документации gem-ов по умолчанию
-url: /2016/04/18/ignoring-ruby-gems-documentation-by-default/
+title: "Игнорирование документации gem-ов по умолчанию"
+date: "2016-04-18T00:19:29Z"
+tags: ["ruby", "gems", "docs"]
+comments: "true"
+flag: "ru"
 ---
 
 На окружениях отличных от разработки нет необходимости устанавливать документацию
