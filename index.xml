@@ -1,20 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core / F#)</title>
+    <title>Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core / F#)</description>
+    <description>Recent content on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Oct 2016 00:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 00:58:56 +0100</lastBuildDate>
     <atom:link href="https://akrisanov.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>About</title>
+      <link>https://akrisanov.com/about/</link>
+      <pubDate>Wed, 15 Mar 2017 00:58:56 +0100</pubDate>
+      
+      <guid>https://akrisanov.com/about/</guid>
+      <description>
+
+&lt;p&gt;Hi :)&lt;/p&gt;
+
+&lt;h3 id=&#34;short-bio&#34;&gt;Short bio&lt;/h3&gt;
+
+&lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
+
+&lt;p&gt;Mainly work on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :) In that case, I’m experienced with JavaScript (ES6/7), TypeScript, React and React Native, Node.js. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS). Also, interested in distributed systems, and machine learning.&lt;/p&gt;
+
+&lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
+
+&lt;p&gt;I prefer to use:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Node.js + Swagger for implementing API and prototyping&lt;/li&gt;
+&lt;li&gt;.NET Core, F# or Go when I have to care about performance, concurrency and so on.&lt;/li&gt;
+&lt;li&gt;PostgreSQL as a primary database&lt;/li&gt;
+&lt;li&gt;React.js on frontend side&lt;/li&gt;
+&lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach)&lt;/li&gt;
+&lt;li&gt;Docker, Circle CI for continuous integration and delivery&lt;/li&gt;
+&lt;li&gt;AWS for application hosting and scaling (experimenting with Azure, but doesn&amp;rsquo;t stick with it yet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;continuous-learning&#34;&gt;Continuous learning&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m really passionate about continuous learning. Trying to learn something new everyday and apply it in daily work.
+Beside all described above languages and technologies, I&amp;rsquo;m curious about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Functional programming&lt;/li&gt;
+&lt;li&gt;Data structures and algorithms&lt;/li&gt;
+&lt;li&gt;Math&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/akrisanov&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/akrisanov&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/akrisanov&#34;&gt;HackerRank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/akrisanov&#34;&gt;Kaggle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/akrisanov&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Переезд в Германию. Получение оффера</title>
-      <link>https://akrisanov.com/2016/10/30/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</link>
+      <link>https://akrisanov.com/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</link>
       <pubDate>Sun, 30 Oct 2016 00:16:19 +0000</pubDate>
       
-      <guid>https://akrisanov.com/2016/10/30/%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</guid>
+      <guid>https://akrisanov.com/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/</guid>
       <description>&lt;h2 id=&#34;пролог&#34;&gt;Пролог&lt;/h2&gt;
 
 &lt;p&gt;Еще в университете я начал размышлять о переезде в другую страну. Рассматривал разные варианты - США, Англия, Дания, Швейцария.
@@ -71,10 +124,10 @@
     
     <item>
       <title>The Reading Digest #2</title>
-      <link>https://akrisanov.com/2016/05/15/the-reading-digest-2/</link>
+      <link>https://akrisanov.com/post/2016-05-15-the-reading-digest-2/</link>
       <pubDate>Sun, 15 May 2016 00:23:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/2016/05/15/the-reading-digest-2/</guid>
+      <guid>https://akrisanov.com/post/2016-05-15-the-reading-digest-2/</guid>
       <description>
 
 &lt;h3 id=&#34;2&#34;&gt;#2:&lt;/h3&gt;
@@ -127,10 +180,10 @@ Justin Collins объясняет какие возможности Ruby on Rail
     
     <item>
       <title>The Reading Digest #1</title>
-      <link>https://akrisanov.com/2016/04/18/the-reading-digest-1/</link>
+      <link>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</link>
       <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/2016/04/18/the-reading-digest-1/</guid>
+      <guid>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</guid>
       <description>&lt;p&gt;У меня не всегда получается писать в блог из-за нехватки времени или банально хороших идей.
 Но каждые выходные я обязательно читаю накопившиеся в RSS, рассылках, Twitter статьи.
 Часто попадаются довольно полезные заметки которыми хочется поделиться и применить в своей работе.&lt;/p&gt;
@@ -191,10 +244,10 @@ Justin Collins объясняет какие возможности Ruby on Rail
     
     <item>
       <title>Игнорирование документации gem-ов по умолчанию</title>
-      <link>https://akrisanov.com/2016/04/18/ignoring-ruby-gems-documentation-by-default/</link>
+      <link>https://akrisanov.com/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/</link>
       <pubDate>Mon, 18 Apr 2016 00:19:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/2016/04/18/ignoring-ruby-gems-documentation-by-default/</guid>
+      <guid>https://akrisanov.com/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/</guid>
       <description>&lt;p&gt;На окружениях отличных от разработки нет необходимости устанавливать документацию
 используемых библиотек. Это экономит время деплоя или обновления приложения.&lt;/p&gt;
 
