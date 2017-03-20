@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</title>
+    <title>Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</description>
+    <description>Recent content on Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 17 Mar 2017 16:39:29 +0000</lastBuildDate>
@@ -35,7 +35,7 @@ brew doctor
 
 &lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
 
-&lt;p&gt;Mainly work on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :) In that case, I’m experienced with JavaScript (ES6/7), TypeScript, React and React Native, Node.js. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS). Also, interested in distributed systems, and machine learning.&lt;/p&gt;
+&lt;p&gt;Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :) In that case, I’m experienced with JavaScript (ES6/7), TypeScript, Node.js, React and React Native, Microsoft .NET Framework. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS). Also, interested in distributed systems, and machine learning.&lt;/p&gt;
 
 &lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
 
@@ -43,7 +43,7 @@ brew doctor
 
 &lt;ul&gt;
 &lt;li&gt;Node.js + Swagger for implementing API and prototyping&lt;/li&gt;
-&lt;li&gt;.NET Core, F# or Go when I have to care about performance, concurrency and so on.&lt;/li&gt;
+&lt;li&gt;.NET Core, F# when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
 &lt;li&gt;PostgreSQL as a primary database&lt;/li&gt;
 &lt;li&gt;React.js on frontend side&lt;/li&gt;
 &lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach)&lt;/li&gt;
@@ -144,11 +144,15 @@ Beside all described above languages and technologies, I&amp;rsquo;m curious abo
 
 &lt;h3 id=&#34;2&#34;&gt;#2:&lt;/h3&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.benroux.me/be-the-better-rails-developer/&#34;&gt;Be The Better Rails Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Автор статьи на примере 7 советов показывает как важно понимать БД даже если
 вы работает с ActiveRecord в Rails и не хотите спускаться до уровня SQL запросов.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.benroux.me/be-the-better-rails-developer/&#34;&gt;Be The Better Rails Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rorsecurity.info/portfolio/video-the-world-of-rails-security&#34;&gt;Video: The World of Rails Security&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Периодически стоит напоминать себе об основах безопасности при разработке приложений
@@ -157,7 +161,7 @@ Justin Collins объясняет какие возможности Ruby on Rail
 а так же о чем стоит позаботиться самостоятельно.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rorsecurity.info/portfolio/video-the-world-of-rails-security&#34;&gt;Video: The World of Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/&#34;&gt;Why You Should Stop Installing Your WebDev Environment Locally&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Вы еще не слышали по каким-то причинам про контейнеры и Docker или не можете
@@ -165,28 +169,24 @@ Justin Collins объясняет какие возможности Ruby on Rail
 Возможно после нее вы измените свой подход к окружению разработки.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/&#34;&gt;Why You Should Stop Installing Your WebDev Environment Locally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.csfieldguide.org.nz/en/index.html&#34;&gt;Computer Science Field Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Отличный сайт-введение для студентов и тех, кто пропустил основы Computer Science.
 Разрабатывается при поддержке Google.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.csfieldguide.org.nz/en/index.html&#34;&gt;Computer Science Field Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/&#34;&gt;Top Data Scientists to Follow &amp;amp; Best Data Science Tutorials on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Мегаполезный список ресурсов для тех, кто интересуется Machine Learning, Data Science
 и пр. горячими на сегодняшний день областями.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/&#34;&gt;Top Data Scientists to Follow &amp;amp; Best Data Science Tutorials on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/&#34;&gt;Best Data Science talks from PyCon Montreal 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Лучшие выступления на тему Data Science на PyCon Montreal 2015.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/&#34;&gt;Best Data Science talks from PyCon Montreal 2015&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

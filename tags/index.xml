@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</title>
+    <title>Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</title>
     <link>https://akrisanov.com/tags/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)</description>
+    <description>Recent content on Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="https://akrisanov.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -18,11 +18,15 @@
 
 &lt;h3 id=&#34;2&#34;&gt;#2:&lt;/h3&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.benroux.me/be-the-better-rails-developer/&#34;&gt;Be The Better Rails Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Автор статьи на примере 7 советов показывает как важно понимать БД даже если
 вы работает с ActiveRecord в Rails и не хотите спускаться до уровня SQL запросов.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.benroux.me/be-the-better-rails-developer/&#34;&gt;Be The Better Rails Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rorsecurity.info/portfolio/video-the-world-of-rails-security&#34;&gt;Video: The World of Rails Security&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Периодически стоит напоминать себе об основах безопасности при разработке приложений
@@ -31,7 +35,7 @@ Justin Collins объясняет какие возможности Ruby on Rail
 а так же о чем стоит позаботиться самостоятельно.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rorsecurity.info/portfolio/video-the-world-of-rails-security&#34;&gt;Video: The World of Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/&#34;&gt;Why You Should Stop Installing Your WebDev Environment Locally&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Вы еще не слышали по каким-то причинам про контейнеры и Docker или не можете
@@ -39,28 +43,24 @@ Justin Collins объясняет какие возможности Ruby on Rail
 Возможно после нее вы измените свой подход к окружению разработки.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/&#34;&gt;Why You Should Stop Installing Your WebDev Environment Locally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.csfieldguide.org.nz/en/index.html&#34;&gt;Computer Science Field Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Отличный сайт-введение для студентов и тех, кто пропустил основы Computer Science.
 Разрабатывается при поддержке Google.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.csfieldguide.org.nz/en/index.html&#34;&gt;Computer Science Field Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/&#34;&gt;Top Data Scientists to Follow &amp;amp; Best Data Science Tutorials on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Мегаполезный список ресурсов для тех, кто интересуется Machine Learning, Data Science
 и пр. горячими на сегодняшний день областями.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/&#34;&gt;Top Data Scientists to Follow &amp;amp; Best Data Science Tutorials on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/&#34;&gt;Best Data Science talks from PyCon Montreal 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Лучшие выступления на тему Data Science на PyCon Montreal 2015.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/&#34;&gt;Best Data Science talks from PyCon Montreal 2015&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
