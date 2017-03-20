@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (JavaScript, React, Node.js, Ruby, .NET Core)"
+title        = "Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
@@ -12,8 +12,8 @@ related_content_limit      = 3
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params]
-  description = """I work mostly on backends in Ruby, Node.js, .NET Core.
-                   Have fun with JavaScript / TypeScript, React, React Native, F#.
+  description = """I work mostly on backends in Node.js, .NET Core / F#, Ruby.
+                   Have fun with JavaScript / TypeScript, React, React Native.
                    Can design, implement and maintain product infrastructure running on AWS.
                    Interested in distributed systems, and machine learning."""
   author      = "Andrey Krisanov" # Optional, controls author name display on posts
