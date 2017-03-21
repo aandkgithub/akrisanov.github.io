@@ -10,19 +10,22 @@ Hi :)
 
 I am a Software Engineer with several years of expirience in full-stack development.
 
-Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - **please reach me out if you have an interesting opportunity** :) In that case, I’m experienced with JavaScript (ES6/7), TypeScript, Node.js, React and React Native, Microsoft .NET Framework. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS). Also, interested in distributed systems, and machine learning.
+Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - **please reach me out if you have an interesting opportunity** :)
+In that case, I’m experienced with Go (Golang), JavaScript (ES6/7), TypeScript, Node.js, React and React Native.
+Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS).
+Also, interested in distributed systems, and machine learning.
 
 ### Right tool for the job
 
 I prefer to use:
 
-* Node.js + Swagger for implementing API and prototyping
-* .NET Core, F# when I have to care about performance, data processing, concurrency and so on.
+* Node.js + Swagger for implementing API and quick prototyping
+* Go when I have to care about performance, data processing, concurrency and so on.
 * PostgreSQL as a primary database
 * React.js on frontend side
 * React Native for mobile apps (I came to it from "native world" and happy with the Facebook approach)
 * Docker, Circle CI for continuous integration and delivery
-* AWS for application hosting and scaling (experimenting with Azure, but doesn't stick with it yet)
+* AWS for application hosting and scaling (experimenting with Azure, Google Cloud)
 
 ### Continuous learning
 

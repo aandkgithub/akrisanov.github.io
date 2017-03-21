@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)"
+title        = "Software Engineer (Go, Node.js, JavaScript, React, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
@@ -12,7 +12,7 @@ related_content_limit      = 3
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params]
-  description = """I work mostly on backends in Node.js, .NET Core / F#, Ruby.
+  description = """I work mostly on backends in Go, Node.js and Ruby.
                    Have fun with JavaScript / TypeScript, React, React Native.
                    Can design, implement and maintain product infrastructure running on AWS.
                    Interested in distributed systems, and machine learning."""
@@ -44,3 +44,9 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
     identifier = "about"
     url = "/about/"
     weight = 3
+
+  [[menu.main]]
+    name = "CV"
+    identifier = "cv"
+    url = "/cv/"
+    weight = 4
