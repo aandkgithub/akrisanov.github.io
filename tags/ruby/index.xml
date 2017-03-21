@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruby on Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</title>
+    <title>Ruby on Software Engineer (Go, Node.js, JavaScript, React, Ruby)</title>
     <link>https://akrisanov.com/tags/ruby/index.xml</link>
-    <description>Recent content in Ruby on Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</description>
+    <description>Recent content in Ruby on Software Engineer (Go, Node.js, JavaScript, React, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="https://akrisanov.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />

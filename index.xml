@@ -1,13 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</title>
+    <title>Software Engineer (Go, Node.js, JavaScript, React, Ruby)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, Node.js, React, .NET Core / F#, Ruby)</description>
+    <description>Recent content on Software Engineer (Go, Node.js, JavaScript, React, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Mar 2017 16:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://akrisanov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CV</title>
+      <link>https://akrisanov.com/cv/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/cv/</guid>
+      <description>
+
+&lt;h2 id=&#34;senior-software-engineer-go-javascript-ruby&#34;&gt;Senior Software Engineer (Go, JavaScript, Ruby)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/akrisanov/&#34;&gt;Contact me on LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I work mostly on backends in &lt;strong&gt;Go&lt;/strong&gt;, Node.js and Ruby. Have fun with JavaScript / &lt;strong&gt;TypeScript&lt;/strong&gt;, &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;React Native&lt;/strong&gt;. Can design, implement and maintain product infrastructure running on &lt;strong&gt;AWS&lt;/strong&gt;. Interested in distributed systems, and machine learning.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+
+&lt;h4 id=&#34;senior-software-engineer-at-clark-germany&#34;&gt;Senior Software Engineer at Clark Germany&lt;/h4&gt;
+
+&lt;p&gt;October 2016 - Present (6 months)&lt;/p&gt;
+
+&lt;p&gt;Working on Partners API which helps to grow customer base and get new opportunities in communication
+between companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Technology stack: Ruby on Rails, PostgreSQL, Node.js, JavaScript, AWS.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;senior-software-engineer-at-ride-with-local&#34;&gt;Senior Software Engineer at Ride With Local&lt;/h4&gt;
+
+&lt;p&gt;April 2015 - October 2016 (1 year 7 months)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hired the development team&lt;/li&gt;
+&lt;li&gt;Helped company to launch the product and get fundings&lt;/li&gt;
+&lt;li&gt;Designed the server-side architecture for ridewithlocal.com (web application, APIs)&lt;/li&gt;
+&lt;li&gt;Developed REST API for mobile applications and the website&lt;/li&gt;
+&lt;li&gt;Learned DevOps tools, maintained the startup infrastructure on AWS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Technology stack: Ruby on Rails, Sidekiq, JavaScript, Node.js, PostgreSQL, Redis, AWS, Docker, ELK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;software-engineer-cto-at-polonium-arts&#34;&gt;Software Engineer / CTO at Polonium Arts&lt;/h4&gt;
+
+&lt;p&gt;June 2012 - April 2015 (2 years 11 months)&lt;/p&gt;
+
+&lt;p&gt;Hired more than 20 developers and helped to open a new office. Thereby, the company launched several
+important projects and got new clients.&lt;/p&gt;
+
+&lt;p&gt;The most challenging project was a payment gate Payler where I:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prepared the product for PCI DSS certification.&lt;/li&gt;
+&lt;li&gt;Redesigned a legacy architecture. Divided a monolithic application into independent services.&lt;/li&gt;
+&lt;li&gt;Implemented a core for communication with the banking processings modules.&lt;/li&gt;
+&lt;li&gt;Developed a merchant API for users cabinet and mobile clients.&lt;/li&gt;
+&lt;li&gt;Established Payler API integration for customers.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Introduced testing and deployment strategies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Technology stack: C#, .NET, MySQL, Redis, RabbitMQ, Ruby, Rails, Unix, Windows Server.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ios-software-engineer-contract-at-soge-interactive-llc&#34;&gt;iOS Software Engineer (Contract) at Soge Interactive LLC&lt;/h4&gt;
+
+&lt;p&gt;March 2012 - July 2012 (5 months)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed shared UI components/libraries for various iOS applications.&lt;/li&gt;
+&lt;li&gt;Presented to the team power of Github and CocoaPods :D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Technology stack: Objective-C, iOS SDK, CocoaPods, Facebook API.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;full-stack-software-engineer-at-genes1s-intellectual-solutions&#34;&gt;Full Stack Software Engineer at Genes1s Intellectual Solutions&lt;/h4&gt;
+
+&lt;p&gt;April 2011 - March 2012 (1 year)&lt;/p&gt;
+
+&lt;p&gt;As part of a cross-functional team developed next solutions for bookmaker system:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UI for customer area (&amp;ldquo;the back office&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;The Core - feed generation and parsing, crawlers, and a calculation logic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;skills-expertise&#34;&gt;Skills &amp;amp; Expertise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web Applications&lt;/li&gt;
+&lt;li&gt;API Development, Swagger&lt;/li&gt;
+&lt;li&gt;Go (Golang)&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;React, React Native&lt;/li&gt;
+&lt;li&gt;Flux&lt;/li&gt;
+&lt;li&gt;Ruby, Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Grape&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Nginx&lt;/li&gt;
+&lt;li&gt;BDD, TDD&lt;/li&gt;
+&lt;li&gt;Amazon Web Services (AWS)&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Unix&lt;/li&gt;
+&lt;li&gt;DevOps, Chef, Docker, HashiCorp Vault&lt;/li&gt;
+&lt;li&gt;Distributed Systems&lt;/li&gt;
+&lt;li&gt;Machine Learning, TensorFlow, Python, R&lt;/li&gt;
+&lt;li&gt;E-commerce, PCI DSS&lt;/li&gt;
+&lt;li&gt;Apache Kafka&lt;/li&gt;
+&lt;li&gt;.NET, C#&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Homebrew: remove old versions</title>
@@ -35,20 +153,23 @@ brew doctor
 
 &lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
 
-&lt;p&gt;Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :) In that case, I’m experienced with JavaScript (ES6/7), TypeScript, Node.js, React and React Native, Microsoft .NET Framework. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS). Also, interested in distributed systems, and machine learning.&lt;/p&gt;
+&lt;p&gt;Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :)
+In that case, I’m experienced with Go (Golang), JavaScript (ES6/7), TypeScript, Node.js, React and React Native.
+Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS).
+Also, interested in distributed systems, and machine learning.&lt;/p&gt;
 
 &lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
 
 &lt;p&gt;I prefer to use:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Node.js + Swagger for implementing API and prototyping&lt;/li&gt;
-&lt;li&gt;.NET Core, F# when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
+&lt;li&gt;Node.js + Swagger for implementing API and quick prototyping&lt;/li&gt;
+&lt;li&gt;Go when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
 &lt;li&gt;PostgreSQL as a primary database&lt;/li&gt;
 &lt;li&gt;React.js on frontend side&lt;/li&gt;
 &lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach)&lt;/li&gt;
 &lt;li&gt;Docker, Circle CI for continuous integration and delivery&lt;/li&gt;
-&lt;li&gt;AWS for application hosting and scaling (experimenting with Azure, but doesn&amp;rsquo;t stick with it yet)&lt;/li&gt;
+&lt;li&gt;AWS for application hosting and scaling (experimenting with Azure, Google Cloud)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;continuous-learning&#34;&gt;Continuous learning&lt;/h3&gt;
