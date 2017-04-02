@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Career on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</title>
+    <title>Career on Software Engineer (JavaScript, Node, React, React Native, Go, Ruby, Clojure, F#)</title>
     <link>https://akrisanov.com/tags/career/index.xml</link>
-    <description>Recent content in Career on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</description>
+    <description>Recent content in Career on Software Engineer (JavaScript, Node, React, React Native, Go, Ruby, Clojure, F#)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="https://akrisanov.com/tags/career/index.xml" rel="self" type="application/rss+xml" />

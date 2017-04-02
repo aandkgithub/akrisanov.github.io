@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</title>
+    <title>Software Engineer (JavaScript, Node, React, React Native, Go, Ruby, Clojure, F#)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</description>
+    <description>Recent content on Software Engineer (JavaScript, Node, React, React Native, Go, Ruby, Clojure, F#)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Apr 2017 15:22:29 +0000</lastBuildDate>
@@ -174,10 +174,10 @@ brew doctor
 
 &lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
 
-&lt;p&gt;Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :)
-In that case, I’m experienced with full stack JavaScript (ES6/7) / TypeScript.
-Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS).
-Also, interested in functional programming, distributed systems, and machine learning.&lt;/p&gt;
+&lt;p&gt;Currently work mostly on backends in &lt;strong&gt;Ruby&lt;/strong&gt; and &lt;strong&gt;Ruby on Rails&lt;/strong&gt;, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :)
+In that case, I’m experienced with &lt;strong&gt;full stack&lt;/strong&gt; &lt;strong&gt;JavaScript (ES6/7)&lt;/strong&gt; / &lt;strong&gt;TypeScript&lt;/strong&gt;.
+Can design, implement and maintain product infrastructure running on &lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt;.
+Also, interested in &lt;strong&gt;functional programming&lt;/strong&gt;, &lt;strong&gt;distributed systems&lt;/strong&gt;, and machine learning.&lt;/p&gt;
 
 &lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
 
