@@ -6,8 +6,30 @@
     <description>Recent content in Posts on Software Engineer (Go, Node.js, JavaScript, React, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Mar 2017 16:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 15:22:29 +0000</lastBuildDate>
     <atom:link href="https://akrisanov.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Three C&#39;s Rule Of Career Development</title>
+      <link>https://akrisanov.com/post/2017-04-02-the-three-cs-rule-of-career-development/</link>
+      <pubDate>Sun, 02 Apr 2017 15:22:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-04-02-the-three-cs-rule-of-career-development/</guid>
+      <description>&lt;p&gt;Working more than 6 years as Software Engineer I really started to appreciate the three C&amp;rsquo;s rule of career development. Any job must have at least two of the three C&amp;rsquo;s:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Contacts which will help you to find your next engagement.&lt;/li&gt;
+&lt;li&gt;Content, i.e. an exciting project that will improve your skills and will be challenging to do.&lt;/li&gt;
+&lt;li&gt;Cash, i.e. a rate of pay that will makes you smile rather than resent your employer or hardly think about money in the middle of the month.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;People ask me next questions &amp;ldquo;I got an interesting opportunity from company X. Should I switch employer?&amp;rdquo; &amp;ldquo;Should I move to another country?&amp;rdquo; and so on. My advice is to look at the rules above, your new opportunity and really think.&lt;/p&gt;
+
+&lt;p&gt;You should learn at every job, then you don’t have much to lose. But after a while, &lt;strong&gt;when you’re not learning anymore, you should pack your bags and leave&lt;/strong&gt;. The only reason people stick to jobs where they don’t learn anything is money or a promise that they will earn a promotion in the next year. The truth is the promotion might never come, and you will end up wasting your time.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t waste your time.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Homebrew: remove old versions</title>
