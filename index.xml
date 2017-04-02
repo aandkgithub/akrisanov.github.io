@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (Go, Node.js, JavaScript, React, Ruby)</title>
+    <title>Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (Go, Node.js, JavaScript, React, Ruby)</description>
+    <description>Recent content on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby, Clojure, F#)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Apr 2017 15:22:29 +0000</lastBuildDate>
@@ -39,13 +39,13 @@
       <guid>https://akrisanov.com/cv/</guid>
       <description>
 
-&lt;h2 id=&#34;senior-software-engineer-go-javascript-ruby&#34;&gt;Senior Software Engineer (Go, JavaScript, Ruby)&lt;/h2&gt;
+&lt;h2 id=&#34;senior-software-engineer&#34;&gt;Senior Software Engineer&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/akrisanov/&#34;&gt;Contact me on LinkedIn&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 
-&lt;p&gt;I work mostly on backends in &lt;strong&gt;Go&lt;/strong&gt;, Node.js and Ruby. Have fun with JavaScript / &lt;strong&gt;TypeScript&lt;/strong&gt;, &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;React Native&lt;/strong&gt;. Can design, implement and maintain product infrastructure running on &lt;strong&gt;AWS&lt;/strong&gt;. Interested in distributed systems, and machine learning.&lt;/p&gt;
+&lt;p&gt;I work mostly on backends in &lt;strong&gt;Node.js&lt;/strong&gt;, &lt;strong&gt;Go&lt;/strong&gt; and &lt;strong&gt;Ruby&lt;/strong&gt; and have fun with &lt;strong&gt;JavaScript&lt;/strong&gt; / &lt;strong&gt;TypeScript&lt;/strong&gt;, &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;React Native&lt;/strong&gt;. Can design, implement and maintain product infrastructure running on &lt;strong&gt;AWS&lt;/strong&gt;. Interested in functional programming (&lt;strong&gt;Clojure&lt;/strong&gt;, &lt;strong&gt;F#&lt;/strong&gt;), distributed systems, and machine learning.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -125,13 +125,13 @@ important projects and got new clients.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Web Applications&lt;/li&gt;
 &lt;li&gt;API Development, Swagger&lt;/li&gt;
-&lt;li&gt;Go (Golang)&lt;/li&gt;
 &lt;li&gt;JavaScript&lt;/li&gt;
 &lt;li&gt;Node.js&lt;/li&gt;
-&lt;li&gt;React, React Native&lt;/li&gt;
-&lt;li&gt;Flux&lt;/li&gt;
-&lt;li&gt;Ruby, Ruby on Rails&lt;/li&gt;
-&lt;li&gt;Grape&lt;/li&gt;
+&lt;li&gt;React, Flux, Redux, React Native&lt;/li&gt;
+&lt;li&gt;Ruby, Ruby on Rails, Grape&lt;/li&gt;
+&lt;li&gt;Go (Golang)&lt;/li&gt;
+&lt;li&gt;Clojure&lt;/li&gt;
+&lt;li&gt;F#, .NET, C#&lt;/li&gt;
 &lt;li&gt;PostgreSQL&lt;/li&gt;
 &lt;li&gt;Redis&lt;/li&gt;
 &lt;li&gt;Nginx&lt;/li&gt;
@@ -144,7 +144,6 @@ important projects and got new clients.&lt;/p&gt;
 &lt;li&gt;Machine Learning, TensorFlow, Python, R&lt;/li&gt;
 &lt;li&gt;E-commerce, PCI DSS&lt;/li&gt;
 &lt;li&gt;Apache Kafka&lt;/li&gt;
-&lt;li&gt;.NET, C#&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -176,34 +175,28 @@ brew doctor
 &lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
 
 &lt;p&gt;Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt; :)
-In that case, I’m experienced with Go (Golang), JavaScript (ES6/7), TypeScript, Node.js, React and React Native.
+In that case, I’m experienced with full stack JavaScript (ES6/7) / TypeScript.
 Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS).
-Also, interested in distributed systems, and machine learning.&lt;/p&gt;
+Also, interested in functional programming, distributed systems, and machine learning.&lt;/p&gt;
 
 &lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
 
 &lt;p&gt;I prefer to use:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Node.js + Swagger for implementing API and quick prototyping&lt;/li&gt;
-&lt;li&gt;Go when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
-&lt;li&gt;PostgreSQL as a primary database&lt;/li&gt;
-&lt;li&gt;React.js on frontend side&lt;/li&gt;
-&lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach)&lt;/li&gt;
-&lt;li&gt;Docker, Circle CI for continuous integration and delivery&lt;/li&gt;
-&lt;li&gt;AWS for application hosting and scaling (experimenting with Azure, Google Cloud)&lt;/li&gt;
+&lt;li&gt;Node.js + Swagger for implementing API and quick prototyping.&lt;/li&gt;
+&lt;li&gt;Clojure, F#, Go when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
+&lt;li&gt;PostgreSQL as a primary database.&lt;/li&gt;
+&lt;li&gt;React, Redux on the frontend side.&lt;/li&gt;
+&lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach).&lt;/li&gt;
+&lt;li&gt;Docker, Circle CI for continuous integration and delivery.&lt;/li&gt;
+&lt;li&gt;AWS for application hosting and scaling (experimenting with Azure, Google Cloud).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;continuous-learning&#34;&gt;Continuous learning&lt;/h3&gt;
 
-&lt;p&gt;I&amp;rsquo;m really passionate about continuous learning. Trying to learn something new everyday and apply it in daily work.
-Beside all described above languages and technologies, I&amp;rsquo;m curious about:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Functional programming&lt;/li&gt;
-&lt;li&gt;Data structures and algorithms&lt;/li&gt;
-&lt;li&gt;Math&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m really passionate about continuous learning.
+Trying to learn something new everyday and apply it in daily work.&lt;/p&gt;
 
 &lt;hr /&gt;
 
