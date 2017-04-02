@@ -4,13 +4,13 @@ date: "2017-03-21T00:00:00+00:00"
 slug: "/cv/"
 ---
 
-## Senior Software Engineer (Go, JavaScript, Ruby)
+## Senior Software Engineer
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/akrisanov/)
 
 ### Summary
 
-I work mostly on backends in **Go**, Node.js and Ruby. Have fun with JavaScript / **TypeScript**, **React**, **React Native**. Can design, implement and maintain product infrastructure running on **AWS**. Interested in distributed systems, and machine learning.
+I work mostly on backends in **Node.js**, **Go** and **Ruby** and have fun with **JavaScript** / **TypeScript**, **React**, **React Native**. Can design, implement and maintain product infrastructure running on **AWS**. Interested in functional programming (**Clojure**, **F#**), distributed systems, and machine learning.
 
 --------------
 
@@ -76,13 +76,13 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 
 * Web Applications
 * API Development, Swagger
-* Go (Golang)
 * JavaScript
 * Node.js
-* React, React Native
-* Flux
-* Ruby, Ruby on Rails
-* Grape
+* React, Flux, Redux, React Native
+* Ruby, Ruby on Rails, Grape
+* Go (Golang)
+* Clojure
+* F#, .NET, C#
 * PostgreSQL
 * Redis
 * Nginx
@@ -95,4 +95,3 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 * Machine Learning, TensorFlow, Python, R
 * E-commerce, PCI DSS
 * Apache Kafka
-* .NET, C#
