@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latency Should Know on Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</title>
+    <link>https://akrisanov.com/tags/latency-should-know/index.xml</link>
+    <description>Recent content in Latency Should Know on Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://akrisanov.com/tags/latency-should-know/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Latency Numbers Every Programmer Should Know</title>
+      <link>https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/</link>
+      <pubDate>Wed, 05 Apr 2017 11:49:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/</guid>
+      <description>&lt;blockquote&gt;
+Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure that the most of the developers don&amp;rsquo;t care about latency these days.
+It&amp;rsquo;s fair behavior because of the software itself.
+To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.&lt;/p&gt;
+
+&lt;p&gt;Below is a cheat sheet of most frequent latency numbers every programmer &amp;ldquo;should know&amp;rdquo; (just know that they exist):&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Task&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;ns&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;us&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;ms&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;L1 cache reference&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Branch mispredict&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;L2 cache reference&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;14x L1 cache&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Mutex lock/unlock&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;25&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Main memory reference&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;100&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20x L2 cache, 200x L1 cache&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Compress 1K bytes with Zippy&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Send 1K bytes over 1 Gbps network&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;10,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;10&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Read 4K randomly from SSD*&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;150,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;150&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;~1GB/sec SSD&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Read 1 MB sequentially from memory&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;250,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;250&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Round trip within same datacenter&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;500,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;500&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Read 1 MB sequentially from SSD*&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1,000,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;~1GB/sec SSD, 4X memory&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Disk seek&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;10,000,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;10,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;10&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20x datacenter roundtrip&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Read 1 MB sequentially from disk&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20,000,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;80x memory, 20X SSD&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Send packet&lt;br&gt;CA-&amp;gt;Netherlands-&amp;gt;CA&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;150,000,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;150,000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;150&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 = 10^-9 seconds&lt;/li&gt;
+&lt;li&gt;1 = 10^-6 seconds = 1,000 ns&lt;/li&gt;
+&lt;li&gt;1 ms = 10^-3 seconds = 1,000 = 1,000,000 ns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;credit&#34;&gt;Credit&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.google.com/people/jeff/&#34;&gt;Jeff Dean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://norvig.com/21-days.html#answers&#34;&gt;Originally by Peter Norvig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html&#34;&gt;Interactive Latency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
