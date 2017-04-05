@@ -10,7 +10,8 @@ slug: "/cv/"
 
 ### Summary
 
-I work mostly on backends in **Node.js**, **Go** and **Ruby** and have fun with **JavaScript** / **TypeScript**, **React**, **React Native**. Can design, implement and maintain product infrastructure running on **AWS**. Interested in functional programming (**Clojure**, **F#**), distributed systems, and machine learning.
+I work with **JavaScript** / **TypeScript**, **Node.js**, **React**, **Clojure** and **Ruby**.
+Interested in functional programming, distributed systems, and machine learning.
 
 --------------
 
@@ -76,22 +77,30 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 
 * Web Applications
 * API Development, Swagger
-* JavaScript
-* Node.js
+* JavaScript, TypeScript
+* Node.js, Express, Koa, Hapi
 * React, Flux, Redux, React Native
+* JVM, Clojure, ClojureScript
 * Ruby, Ruby on Rails, Grape
-* Go (Golang)
-* Clojure
-* F#, .NET, C#
-* PostgreSQL
-* Redis
-* Nginx
-* BDD, TDD
-* Amazon Web Services (AWS)
-* Git
-* Unix
-* DevOps, Chef, Docker, HashiCorp Vault
-* Distributed Systems
-* Machine Learning, TensorFlow, Python, R
-* E-commerce, PCI DSS
+* PostgreSQL, Redis
 * Apache Kafka
+* Unix, Nginx, Git
+* Amazon Web Services (AWS)
+* DevOps, Chef, Docker
+* Distributed Systems
+* E-commerce, PCI DSS
+
+#### Familiar with
+
+* Machine Learning, TensorFlow, Python, R
+* F#, Azure
+* Go (Golang)
+* Angular
+* HashiCorp Vault, Terraform
+
+
+#### Past Experience
+
+* C#, .NET
+* Objective-C, iOS SDK, Java, Android SDK
+* PHP
