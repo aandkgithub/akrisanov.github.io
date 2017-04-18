@@ -10,8 +10,8 @@ slug: "/cv/"
 
 ### Summary
 
-I work with **JavaScript** / **TypeScript**, **Node.js**, **React**, **Clojure** and **Ruby**.
-Interested in functional programming, distributed systems, and machine learning.
+I work with **JavaScript** / **TypeScript**, **Node.js**, **React**, **Go** and **Ruby**.
+Interested in functional programming (Clojure/F#), distributed systems, and machine learning.
 
 --------------
 
@@ -34,7 +34,7 @@ April 2015 - October 2016 (1 year 7 months)
 * Developed REST API for mobile applications and the website
 * Learned DevOps tools, maintained the startup infrastructure on AWS
 
-_Technology stack: Ruby on Rails, Sidekiq, JavaScript, Node.js, PostgreSQL, Redis, AWS, Docker, ELK._
+_Technology stack: Ruby on Rails, Sidekiq, JavaScript, Node.js, Go, PostgreSQL, Redis, AWS, Docker, ELK._
 
 #### Software Engineer / CTO at Polonium Arts
 June 2012 - April 2015 (2 years 11 months)
@@ -80,10 +80,10 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 * JavaScript, TypeScript
 * Node.js, Express, Koa, Hapi
 * React, Flux, Redux, React Native
-* JVM, Clojure, ClojureScript
+* Go (Golang)
 * Ruby, Ruby on Rails, Grape
 * PostgreSQL, Redis
-* Apache Kafka
+* RabbitMQ
 * Unix, Nginx, Git
 * Amazon Web Services (AWS)
 * DevOps, Chef, Docker
@@ -92,9 +92,10 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 
 #### Familiar with
 
-* Machine Learning, TensorFlow, Python, R
+* JVM, Clojure, ClojureScript
 * F#, Azure
-* Go (Golang)
+* Apache Kafka
+* Machine Learning
 * Angular
 * HashiCorp Vault, Terraform
 

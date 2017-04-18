@@ -11,16 +11,16 @@ Hi :)
 I am a Software Engineer with several years of expirience in full-stack development.
 
 Currently work mostly on backends in **Ruby** and **Ruby on Rails**, but want to switch the stack in the near future - **please reach me out if you have an interesting opportunity**.
-In that case, I’m experienced with **full stack** **JavaScript (ES6/7)**, **TypeScript** and **Clojure**, **ClojureScript**.
+In that case, I’m experienced with **full stack** **JavaScript (ES6/7)**, **TypeScript** and **Go**.
 Can design, implement and maintain product infrastructure running on **Amazon Web Services (AWS)**.
-Also, interested in **functional programming**, **distributed systems**, and **machine learning**.
+Also, interested in functional programming (Clojure/F#), **distributed systems**, and **machine learning**.
 
 ### Right tool for the job
 
 I prefer to use:
 
 * Node.js + Swagger for implementing API and quick prototyping.
-* Clojure when I have to care about performance, data processing, concurrency and so on.
+* Go (Golang) when I have to care about performance, data processing, concurrency and so on.
 * PostgreSQL as a primary database.
 * React, Redux on the frontend side.
 * React Native for mobile apps (I came to it from "native world" and happy with the Facebook approach).
