@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</title>
+    <title>Posts on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby)</title>
     <link>https://akrisanov.com/post/index.xml</link>
-    <description>Recent content in Posts on Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</description>
+    <description>Recent content in Posts on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 05 Apr 2017 11:49:29 +0000</lastBuildDate>

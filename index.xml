@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</title>
+    <title>Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby)</title>
     <link>https://akrisanov.com/index.xml</link>
-    <description>Recent content on Software Engineer (JavaScript, Node.js, React, React Native, Clojure, Ruby)</description>
+    <description>Recent content on Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 05 Apr 2017 11:49:29 +0000</lastBuildDate>
@@ -206,8 +206,8 @@ To be honest, there are no high load, no real-time, no network extensive operati
 
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 
-&lt;p&gt;I work with &lt;strong&gt;JavaScript&lt;/strong&gt; / &lt;strong&gt;TypeScript&lt;/strong&gt;, &lt;strong&gt;Node.js&lt;/strong&gt;, &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;Clojure&lt;/strong&gt; and &lt;strong&gt;Ruby&lt;/strong&gt;.
-Interested in functional programming, distributed systems, and machine learning.&lt;/p&gt;
+&lt;p&gt;I work with &lt;strong&gt;JavaScript&lt;/strong&gt; / &lt;strong&gt;TypeScript&lt;/strong&gt;, &lt;strong&gt;Node.js&lt;/strong&gt;, &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;Go&lt;/strong&gt; and &lt;strong&gt;Ruby&lt;/strong&gt;.
+Interested in functional programming (Clojure/F#), distributed systems, and machine learning.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -234,7 +234,7 @@ between companies.&lt;/p&gt;
 &lt;li&gt;Learned DevOps tools, maintained the startup infrastructure on AWS&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Technology stack: Ruby on Rails, Sidekiq, JavaScript, Node.js, PostgreSQL, Redis, AWS, Docker, ELK.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Technology stack: Ruby on Rails, Sidekiq, JavaScript, Node.js, Go, PostgreSQL, Redis, AWS, Docker, ELK.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;software-engineer-cto-at-polonium-arts&#34;&gt;Software Engineer / CTO at Polonium Arts&lt;/h4&gt;
 
@@ -290,10 +290,10 @@ important projects and got new clients.&lt;/p&gt;
 &lt;li&gt;JavaScript, TypeScript&lt;/li&gt;
 &lt;li&gt;Node.js, Express, Koa, Hapi&lt;/li&gt;
 &lt;li&gt;React, Flux, Redux, React Native&lt;/li&gt;
-&lt;li&gt;JVM, Clojure, ClojureScript&lt;/li&gt;
+&lt;li&gt;Go (Golang)&lt;/li&gt;
 &lt;li&gt;Ruby, Ruby on Rails, Grape&lt;/li&gt;
 &lt;li&gt;PostgreSQL, Redis&lt;/li&gt;
-&lt;li&gt;Apache Kafka&lt;/li&gt;
+&lt;li&gt;RabbitMQ&lt;/li&gt;
 &lt;li&gt;Unix, Nginx, Git&lt;/li&gt;
 &lt;li&gt;Amazon Web Services (AWS)&lt;/li&gt;
 &lt;li&gt;DevOps, Chef, Docker&lt;/li&gt;
@@ -304,9 +304,10 @@ important projects and got new clients.&lt;/p&gt;
 &lt;h4 id=&#34;familiar-with&#34;&gt;Familiar with&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Machine Learning, TensorFlow, Python, R&lt;/li&gt;
+&lt;li&gt;JVM, Clojure, ClojureScript&lt;/li&gt;
 &lt;li&gt;F#, Azure&lt;/li&gt;
-&lt;li&gt;Go (Golang)&lt;/li&gt;
+&lt;li&gt;Apache Kafka&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
 &lt;li&gt;Angular&lt;/li&gt;
 &lt;li&gt;HashiCorp Vault, Terraform&lt;/li&gt;
 &lt;/ul&gt;
@@ -348,9 +349,9 @@ brew doctor
 &lt;p&gt;I am a Software Engineer with several years of expirience in full-stack development.&lt;/p&gt;
 
 &lt;p&gt;Currently work mostly on backends in &lt;strong&gt;Ruby&lt;/strong&gt; and &lt;strong&gt;Ruby on Rails&lt;/strong&gt;, but want to switch the stack in the near future - &lt;strong&gt;please reach me out if you have an interesting opportunity&lt;/strong&gt;.
-In that case, I’m experienced with &lt;strong&gt;full stack&lt;/strong&gt; &lt;strong&gt;JavaScript (ES6/7)&lt;/strong&gt;, &lt;strong&gt;TypeScript&lt;/strong&gt; and &lt;strong&gt;Clojure&lt;/strong&gt;, &lt;strong&gt;ClojureScript&lt;/strong&gt;.
+In that case, I’m experienced with &lt;strong&gt;full stack&lt;/strong&gt; &lt;strong&gt;JavaScript (ES6/7)&lt;/strong&gt;, &lt;strong&gt;TypeScript&lt;/strong&gt; and &lt;strong&gt;Go&lt;/strong&gt;.
 Can design, implement and maintain product infrastructure running on &lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt;.
-Also, interested in &lt;strong&gt;functional programming&lt;/strong&gt;, &lt;strong&gt;distributed systems&lt;/strong&gt;, and &lt;strong&gt;machine learning&lt;/strong&gt;.&lt;/p&gt;
+Also, interested in functional programming (Clojure/F#), &lt;strong&gt;distributed systems&lt;/strong&gt;, and &lt;strong&gt;machine learning&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;right-tool-for-the-job&#34;&gt;Right tool for the job&lt;/h3&gt;
 
@@ -358,7 +359,7 @@ Also, interested in &lt;strong&gt;functional programming&lt;/strong&gt;, &lt;str
 
 &lt;ul&gt;
 &lt;li&gt;Node.js + Swagger for implementing API and quick prototyping.&lt;/li&gt;
-&lt;li&gt;Clojure when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
+&lt;li&gt;Go (Golang) when I have to care about performance, data processing, concurrency and so on.&lt;/li&gt;
 &lt;li&gt;PostgreSQL as a primary database.&lt;/li&gt;
 &lt;li&gt;React, Redux on the frontend side.&lt;/li&gt;
 &lt;li&gt;React Native for mobile apps (I came to it from &amp;ldquo;native world&amp;rdquo; and happy with the Facebook approach).&lt;/li&gt;
