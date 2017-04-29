@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV / Resume"
 date: "2017-03-21T00:00:00+00:00"
 slug: "/cv/"
 ---
@@ -10,8 +10,8 @@ slug: "/cv/"
 
 ### Summary
 
-I work with **JavaScript** / **TypeScript**, **Node.js**, **React**, **Go** and **Ruby**.
-Interested in functional programming (Clojure/F#), distributed systems, and machine learning.
+I work with **Go**, **JavaScript / TypeScript**, **Node.js**, **React** and **Ruby**.
+Interested in **functional programming** (Clojure/F#), **distributed systems**, and **machine learning**.
 
 --------------
 
@@ -23,7 +23,7 @@ October 2016 - Present (6 months)
 Working on Partners API which helps to grow customer base and get new opportunities in communication
 between companies.
 
-_Technology stack: Ruby on Rails, PostgreSQL, Node.js, JavaScript, AWS._
+_Technology stack: Go, Ruby on Rails, PostgreSQL, ActiveMQ, Node.js, JavaScript, AWS._
 
 #### Senior Software Engineer at Ride With Local
 April 2015 - October 2016 (1 year 7 months)
@@ -48,7 +48,7 @@ The most challenging project was a payment gate Payler where I:
 * Redesigned a legacy architecture. Divided a monolithic application into independent services.
 * Implemented a core for communication with the banking processings modules.
 * Developed a merchant API for users cabinet and mobile clients.
-* Established Payler API integration for customers.  
+* Established Payler API integration for customers.
 * Introduced testing and deployment strategies.
 
 _Technology stack: C#, .NET, MySQL, Redis, RabbitMQ, Ruby, Rails, Unix, Windows Server._
@@ -77,13 +77,13 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 
 * Web Applications
 * API Development, Swagger
+* Go (Golang)
 * JavaScript, TypeScript
 * Node.js, Express, Koa, Hapi
 * React, Flux, Redux, React Native
-* Go (Golang)
 * Ruby, Ruby on Rails, Grape
 * PostgreSQL, Redis
-* RabbitMQ
+* (Active/Rabbit)MQ
 * Unix, Nginx, Git
 * Amazon Web Services (AWS)
 * DevOps, Chef, Docker

@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (JavaScript, Node.js, React, React Native, Go, Ruby)"
+title        = "Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
@@ -11,8 +11,10 @@ disqusShortname  = "akrisanov"
 related_content_limit      = 3
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
+PygmentsCodeFences = true
+
 [params]
-  description = """I work with JavaScript/TypeScript, Node.js, React, Go and Ruby.
+  description = """I work with Go, JavaScript / TypeScript, Node.js, React, React Native and Ruby.
                    Interested in functional programming (Clojure/F#), distributed systems, and machine learning."""
   author      = "Andrey Krisanov" # Optional, controls author name display on posts
   hide_author = true              # Optional, set true to hide author name on posts
@@ -42,7 +44,6 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
     identifier = "about"
     url = "/about/"
     weight = 3
-
   [[menu.main]]
     name = "CV"
     identifier = "cv"

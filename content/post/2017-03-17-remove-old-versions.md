@@ -6,7 +6,7 @@ comments: "true"
 flag: "gb"
 ---
 
-```
+```bash
 brew update && brew upgrade && brew cleanup
 brew doctor
 ```
