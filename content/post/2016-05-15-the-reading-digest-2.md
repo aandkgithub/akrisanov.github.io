@@ -1,7 +1,7 @@
 ---
 title: "The Reading Digest #2"
 date: "2016-05-15T00:23:29Z"
-tags: "[]"
+tags: []
 comments: "true"
 flag: "ru"
 ---
