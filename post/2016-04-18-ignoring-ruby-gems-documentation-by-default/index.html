@@ -4,19 +4,11 @@
     <meta name="generator" content="Hugo 0.21-DEV" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latency Numbers Every Programmer Should Know | Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
-    <meta name="description" content="
-Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
-
-
-I&rsquo;m sure that the most of the developers don&rsquo;t care about latency these days.
-It&rsquo;s fair behavior because of the software itself.
-To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.
-
-Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;should know&rdquo; (just know that they exist):
-
-">
-    <meta name="keywords" content="cheatsheet, latency, should-know">
+    <title>Игнорирование документации gem-ов по умолчанию | Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <meta name="description" content="На окружениях отличных от разработки нет необходимости устанавливать документацию используемых библиотек. Это экономит время деплоя или обновления приложения.
+Достаточно добавить в ~/.gemrc следующую строку:
+gem: --no-document  ">
+    <meta name="keywords" content="ruby, gems, docs">
     
     
     
@@ -26,25 +18,17 @@ Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;
   <meta name="author" content="Andrey Krisanov">
 
 
-    <meta property="og:title" content="Latency Numbers Every Programmer Should Know" />
-<meta property="og:description" content="
-Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
-
-
-I&rsquo;m sure that the most of the developers don&rsquo;t care about latency these days.
-It&rsquo;s fair behavior because of the software itself.
-To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.
-
-Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;should know&rdquo; (just know that they exist):
-
-" />
+    <meta property="og:title" content="Игнорирование документации gem-ов по умолчанию" />
+<meta property="og:description" content="На окружениях отличных от разработки нет необходимости устанавливать документацию используемых библиотек. Это экономит время деплоя или обновления приложения.
+Достаточно добавить в ~/.gemrc следующую строку:
+gem: --no-document  " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/" />
+<meta property="og:url" content="https://akrisanov.com/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/" />
 
 
 
-<meta property="article:published_time" content="2017-04-05T11:49:29&#43;00:00"/>
-<meta property="article:modified_time" content="2017-04-05T11:49:29&#43;00:00"/>
+<meta property="article:published_time" content="2016-04-18T00:19:29&#43;00:00"/>
+<meta property="article:modified_time" content="2016-04-18T00:19:29&#43;00:00"/>
 
 
 
@@ -73,7 +57,7 @@ ga('send', 'pageview');
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
     
-    <link rel="canonical" href="https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/">
+    <link rel="canonical" href="https://akrisanov.com/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/">
     
     
     
@@ -543,41 +527,33 @@ article {
     <main>
   <article itemscope itemtype="http://schema.org/BlogPosting">
     
-<meta itemprop="name" content="Latency Numbers Every Programmer Should Know">
-<meta itemprop="description" content="
-Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
+<meta itemprop="name" content="Игнорирование документации gem-ов по умолчанию">
+<meta itemprop="description" content="На окружениях отличных от разработки нет необходимости устанавливать документацию используемых библиотек. Это экономит время деплоя или обновления приложения.
+Достаточно добавить в ~/.gemrc следующую строку:
+gem: --no-document  ">
 
 
-I&rsquo;m sure that the most of the developers don&rsquo;t care about latency these days.
-It&rsquo;s fair behavior because of the software itself.
-To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.
-
-Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;should know&rdquo; (just know that they exist):
-
-">
-
-
-<meta itemprop="dateModified" content="2017-04-05T11:49:29&#43;00:00" />
-<meta itemprop="wordCount" content="247">
+<meta itemprop="dateModified" content="2016-04-18T00:19:29&#43;00:00" />
+<meta itemprop="wordCount" content="26">
 
 
 
 <meta itemprop="keywords" content="benchmarking,blau-karte,blue-card,brew,career,cheatsheet,clojure,continuous-delivery,docs,encoding,gems,homebrew,latency-should-know,macos,ruby,salary,spotify,svg,tips--tricks,usa,германия," />
 
     <header>
-      <h1 itemprop="headline">Latency Numbers Every Programmer Should Know</h1>
+      <h1 itemprop="headline">Игнорирование документации gem-ов по умолчанию</h1>
       <p class="muted">
-        <img src="/images/gb.png" style="margin-bottom: -3px" />
+        <img src="/images/ru.png" style="margin-bottom: -3px" />
 <svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
 </svg>
-<span>2 minute read</span>
+<span>1 minute read</span>
 <svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="2017-04-05T11:49:29&#43;00:00">5 Apr, 2017</time>
+  Published: <time datetime="2016-04-18T00:19:29&#43;00:00">18 Apr, 2016</time>
 
 
       </p>
@@ -586,168 +562,22 @@ Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;
     
 
     <div itemprop="articleBody">
-      <blockquote>
-Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
-</blockquote>
+      <p>На окружениях отличных от разработки нет необходимости устанавливать документацию
+используемых библиотек. Это экономит время деплоя или обновления приложения.</p>
 
-<p>I&rsquo;m sure that the most of the developers don&rsquo;t care about latency these days.
-It&rsquo;s fair behavior because of the software itself.
-To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.</p>
+<p>Достаточно добавить в <code>~/.gemrc</code> следующую строку:</p>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>gem: --no-document
+</pre></div>
 
-<p>Below is a cheat sheet of most frequent latency numbers every programmer &ldquo;should know&rdquo; (just know that they exist):</p>
-
-<p></p>
-
-<table>
-<thead>
-<tr>
-<th align="left">Task</th>
-<th align="right">ns</th>
-<th align="right">us</th>
-<th align="right">ms</th>
-<th align="right"></th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="left">L1 cache reference</td>
-<td align="right">0.5</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Branch mispredict</td>
-<td align="right">5</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">L2 cache reference</td>
-<td align="right">7</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right">14x L1 cache</td>
-</tr>
-
-<tr>
-<td align="left">Mutex lock/unlock</td>
-<td align="right">25</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Main memory reference</td>
-<td align="right">100</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right">20x L2 cache, 200x L1 cache</td>
-</tr>
-
-<tr>
-<td align="left">Compress 1K bytes with Zippy</td>
-<td align="right">3,000</td>
-<td align="right">3</td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Send 1K bytes over 1 Gbps network</td>
-<td align="right">10,000</td>
-<td align="right">10</td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Read 4K randomly from SSD*</td>
-<td align="right">150,000</td>
-<td align="right">150</td>
-<td align="right"></td>
-<td align="right">~1GB/sec SSD</td>
-</tr>
-
-<tr>
-<td align="left">Read 1 MB sequentially from memory</td>
-<td align="right">250,000</td>
-<td align="right">250</td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Round trip within same datacenter</td>
-<td align="right">500,000</td>
-<td align="right">500</td>
-<td align="right"></td>
-<td align="right"></td>
-</tr>
-
-<tr>
-<td align="left">Read 1 MB sequentially from SSD*</td>
-<td align="right">1,000,000</td>
-<td align="right">1,000</td>
-<td align="right">1</td>
-<td align="right">~1GB/sec SSD, 4X memory</td>
-</tr>
-
-<tr>
-<td align="left">Disk seek</td>
-<td align="right">10,000,000</td>
-<td align="right">10,000</td>
-<td align="right">10</td>
-<td align="right">20x datacenter roundtrip</td>
-</tr>
-
-<tr>
-<td align="left">Read 1 MB sequentially from disk</td>
-<td align="right">20,000,000</td>
-<td align="right">20,000</td>
-<td align="right">20</td>
-<td align="right">80x memory, 20X SSD</td>
-</tr>
-
-<tr>
-<td align="left">Send packet<br>CA-&gt;Netherlands-&gt;CA</td>
-<td align="right">150,000,000</td>
-<td align="right">150,000</td>
-<td align="right">150</td>
-<td align="right"></td>
-</tr>
-</tbody>
-</table>
-
-<h3 id="notes">Notes</h3>
-
-<ul>
-<li>1 = 10^-9 seconds</li>
-<li>1 = 10^-6 seconds = 1,000 ns</li>
-<li>1 ms = 10^-3 seconds = 1,000 = 1,000,000 ns</li>
-</ul>
-
-<h3 id="credit">Credit</h3>
-
-<ul>
-<li><a href="http://research.google.com/people/jeff/">Jeff Dean</a></li>
-<li><a href="http://norvig.com/21-days.html#answers">Originally by Peter Norvig</a></li>
-<li><a href="https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html">Interactive Latency</a></li>
-</ul>
     </div>
     
       <article>
         <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'akrisanov';
-    var disqus_identifier = 'https:\/\/akrisanov.com\/post\/2017-04-05-latency-numbers-every-programmer-should-know\/';
-    var disqus_title = 'Latency Numbers Every Programmer Should Know';
-    var disqus_url = 'https:\/\/akrisanov.com\/post\/2017-04-05-latency-numbers-every-programmer-should-know\/';
+    var disqus_identifier = 'https:\/\/akrisanov.com\/post\/2016-04-18-ignoring-ruby-gems-documentation-by-default\/';
+    var disqus_title = 'Игнорирование документации gem-ов по умолчанию';
+    var disqus_url = 'https:\/\/akrisanov.com\/post\/2016-04-18-ignoring-ruby-gems-documentation-by-default\/';
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -764,14 +594,14 @@ To be honest, there are no high load, no real-time, no network extensive operati
       <p>
   Published
   
-  <time datetime="2017-04-05T11:49:29&#43;00:00">
-    5 Apr, 2017
+  <time datetime="2016-04-18T00:19:29&#43;00:00">
+    18 Apr, 2016
   </time>
   
   
-    and tagged <a href="/tags/cheatsheet/">cheatsheet</a> and <a href="/tags/latency-should-know/">latency, should-know</a>
+    and tagged <a href="/tags/docs/">docs</a>, <a href="/tags/gems/">gems</a> and <a href="/tags/ruby/">ruby</a>
   
-  using <span itemprop="wordCount">247</span> words.
+  using <span itemprop="wordCount">26</span> words.
 </p>
 
       

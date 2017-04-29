@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svg on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <link>https://akrisanov.com/tags/svg/</link>
+    <description>Recent content in Svg on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Apr 2016 00:23:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://akrisanov.com/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Reading Digest #1</title>
+      <link>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</link>
+      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</guid>
+      <description>&lt;p&gt;У меня не всегда получается писать в блог из-за нехватки времени или банально хороших идей.
+Но каждые выходные я обязательно читаю накопившиеся в RSS, рассылках, Twitter статьи.
+Часто попадаются довольно полезные заметки которыми хочется поделиться и применить в своей работе.&lt;/p&gt;
+
+&lt;p&gt;Поэтому решил начать публиковать свой The Reading Digest.&lt;/p&gt;
+
+&lt;p&gt;Итак&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

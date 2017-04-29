@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latency Should Know on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <link>https://akrisanov.com/tags/latency-should-know/</link>
+    <description>Recent content in Latency Should Know on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Apr 2017 11:49:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://akrisanov.com/tags/latency-should-know/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latency Numbers Every Programmer Should Know</title>
+      <link>https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/</link>
+      <pubDate>Wed, 05 Apr 2017 11:49:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-04-05-latency-numbers-every-programmer-should-know/</guid>
+      <description>&lt;blockquote&gt;
+Latency is the time interval between initiating a query, transmission, or process, and receiving or detecting the results, often given as an average value over a large number of events.
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure that the most of the developers don&amp;rsquo;t care about latency these days.
+It&amp;rsquo;s fair behavior because of the software itself.
+To be honest, there are no high load, no real-time, no network extensive operations or even the huge amount of customers. Even so, it always helpful to know how latency can affect your applications.&lt;/p&gt;
+
+&lt;p&gt;Below is a cheat sheet of most frequent latency numbers every programmer &amp;ldquo;should know&amp;rdquo; (just know that they exist):&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
