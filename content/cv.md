@@ -1,29 +1,31 @@
 ---
-title: "CV / Resume"
+title: "CV (Resume)"
 date: "2017-03-21T00:00:00+00:00"
 slug: "/cv/"
 ---
-
-## Senior Software Engineer
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/akrisanov/)
 
 ### Summary
 
-I work with **Go**, **JavaScript / TypeScript**, **Node.js**, **React** and **Ruby**.
-Interested in **functional programming** (Clojure/F#), **distributed systems**, and **machine learning**.
+Software Engineer with several years of expirience in full-stack application development, DevOps and team management.
+
+Currently work mostly on backends in **Go** and **Ruby on Rails**.
+Excited about TypeScript, React, **React Native**.
+Interested in **distributed systems** and functional programming.
+Can design, implement and maintain product infrastructure running on the cloud.
 
 --------------
 
 ### Experience
 
 #### Senior Software Engineer at Clark Germany
-October 2016 - Present (6 months)
+October 2016 - Present
 
-Working on Partners API which helps to grow customer base and get new opportunities in communication
+Working on Partnership API which helps to grow customer base and get new opportunities in communication
 between companies.
 
-_Technology stack: Go, Ruby on Rails, PostgreSQL, ActiveMQ, Node.js, JavaScript, AWS._
+_Technology stack: Go, Ruby on Rails, PostgreSQL, ActiveMQ, AWS._
 
 #### Senior Software Engineer at Ride With Local
 April 2015 - October 2016 (1 year 7 months)
@@ -51,13 +53,13 @@ The most challenging project was a payment gate Payler where I:
 * Established Payler API integration for customers.
 * Introduced testing and deployment strategies.
 
-_Technology stack: C#, .NET, MySQL, Redis, RabbitMQ, Ruby, Rails, Unix, Windows Server._
+_Technology stack: C#, .NET, MySQL, Redis, RabbitMQ, Ruby on Rails, Unix, Windows Server._
 
 #### iOS Software Engineer (Contract) at Soge Interactive LLC
 March 2012 - July 2012 (5 months)
 
 * Developed shared UI components/libraries for various iOS applications.
-* Presented to the team power of Github and CocoaPods :D
+* Presented to the team power of Github and CocoaPods 😂
 
 _Technology stack: Objective-C, iOS SDK, CocoaPods, Facebook API._
 
@@ -79,29 +81,25 @@ _Technology stack: PHP, MySQL, Unix, JavaScript, ExtJS (Sencha), C#, .NET, WPF._
 * API Development, Swagger
 * Go (Golang)
 * JavaScript, TypeScript
-* Node.js, Express, Koa, Hapi
-* React, Flux, Redux, React Native
+* React, Flux, React Native
 * Ruby, Ruby on Rails, Grape
 * PostgreSQL, Redis
-* (Active/Rabbit)MQ
+* ActiveMQ, Amazon SQS
 * Unix, Nginx, Git
 * Amazon Web Services (AWS)
 * DevOps, Chef, Docker
 * Distributed Systems
 * E-commerce, PCI DSS
 
-#### Familiar with
+#### Familiar with (pet projects, < 1 year)
 
 * JVM, Clojure, ClojureScript
-* F#, Azure
-* Apache Kafka
-* Machine Learning
-* Angular
-* HashiCorp Vault, Terraform
-
+* F#, .NET Core, Azure
+* HashiCorp Terraform, Vault
 
 #### Past Experience
 
-* C#, .NET
-* Objective-C, iOS SDK, Java, Android SDK
+* C#, .NET 3.5
+* Objective-C, iOS SDK
+* Java 1.6, Android SDK
 * PHP
