@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <title>Tags on Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
     <link>https://akrisanov.com/tags/</link>
-    <description>Recent content in Tags on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <description>Recent content in Tags on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Apr 2016 00:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2016 00:16:19 +0000</lastBuildDate>
     
 	<atom:link href="https://akrisanov.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Benchmarking</title>
-      <link>https://akrisanov.com/tags/benchmarking/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/benchmarking/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Blau Karte</title>
@@ -66,38 +57,11 @@
     </item>
     
     <item>
-      <title>Clojure</title>
-      <link>https://akrisanov.com/tags/clojure/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/clojure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://akrisanov.com/tags/continuous-delivery/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Docs</title>
       <link>https://akrisanov.com/tags/docs/</link>
       <pubDate>Mon, 18 Apr 2016 00:19:29 +0000</pubDate>
       
       <guid>https://akrisanov.com/tags/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Encoding</title>
-      <link>https://akrisanov.com/tags/encoding/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/encoding/</guid>
       <description></description>
     </item>
     
@@ -120,11 +84,11 @@
     </item>
     
     <item>
-      <title>Latency Should Know</title>
-      <link>https://akrisanov.com/tags/latency-should-know/</link>
+      <title>Latency</title>
+      <link>https://akrisanov.com/tags/latency/</link>
       <pubDate>Wed, 05 Apr 2017 11:49:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/tags/latency-should-know/</guid>
+      <guid>https://akrisanov.com/tags/latency/</guid>
       <description></description>
     </item>
     
@@ -140,36 +104,18 @@
     <item>
       <title>Ruby</title>
       <link>https://akrisanov.com/tags/ruby/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:19:29 +0000</pubDate>
       
       <guid>https://akrisanov.com/tags/ruby/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Salary</title>
-      <link>https://akrisanov.com/tags/salary/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
+      <title>Should Know</title>
+      <link>https://akrisanov.com/tags/should-know/</link>
+      <pubDate>Wed, 05 Apr 2017 11:49:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/tags/salary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spotify</title>
-      <link>https://akrisanov.com/tags/spotify/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/spotify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Svg</title>
-      <link>https://akrisanov.com/tags/svg/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/svg/</guid>
+      <guid>https://akrisanov.com/tags/should-know/</guid>
       <description></description>
     </item>
     
@@ -179,15 +125,6 @@
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
       <guid>https://akrisanov.com/tags/tips--tricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usa</title>
-      <link>https://akrisanov.com/tags/usa/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/tags/usa/</guid>
       <description></description>
     </item>
     

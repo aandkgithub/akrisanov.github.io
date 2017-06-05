@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <title>Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
     <link>https://akrisanov.com/</link>
-    <description>Recent content on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <description>Recent content on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 05 Apr 2017 11:49:29 +0000</lastBuildDate>
@@ -41,16 +41,16 @@ To be honest, there are no high load, no real-time, no network extensive operati
     </item>
     
     <item>
-      <title>CV / Resume</title>
+      <title>CV (Resume)</title>
       <link>https://akrisanov.com/cv/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://akrisanov.com/cv/</guid>
-      <description>Senior Software Engineer Contact me on LinkedIn
-Summary I work with Go, JavaScript / TypeScript, Node.js, React and Ruby. Interested in functional programming (Clojure/F#), distributed systems, and machine learning.
-Experience Senior Software Engineer at Clark Germany October 2016 - Present (6 months)
-Working on Partners API which helps to grow customer base and get new opportunities in communication between companies.
-Technology stack: Go, Ruby on Rails, PostgreSQL, ActiveMQ, Node.js, JavaScript, AWS.</description>
+      <description>Contact me on LinkedIn
+Summary Software Engineer with several years of expirience in full-stack application development, DevOps and team management.
+Currently work mostly on backends in Go and Ruby on Rails. Excited about TypeScript, React, React Native. Interested in distributed systems and functional programming. Can design, implement and maintain product infrastructure running on the cloud.
+Experience Senior Software Engineer at Clark Germany October 2016 - Present
+Working on Partnership API which helps to grow customer base and get new opportunities in communication between companies.</description>
     </item>
     
     <item>
@@ -68,9 +68,9 @@ Technology stack: Go, Ruby on Rails, PostgreSQL, ActiveMQ, Node.js, JavaScript, 
       <pubDate>Wed, 15 Mar 2017 00:58:56 +0100</pubDate>
       
       <guid>https://akrisanov.com/about/</guid>
-      <description>Hi :)
-Short bio I am a Software Engineer with several years of expirience in full-stack development.
-Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch the stack in the near future - please reach me out if you have an interesting opportunity. In that case, I’m experienced with Go, full stack JavaScript (ES6/7) / TypeScript. Can design, implement and maintain product infrastructure running on Amazon Web Services (AWS).</description>
+      <description>Hi there. It&amp;rsquo;s nice to see you on my personal blog!
+Short bio My name is Andrey Krisanov and I&amp;rsquo;m a Software Engineer with several years of expirience in full-stack application development, DevOps and team management.
+Currently work mostly on backends in Go and Ruby on Rails. Excited about TypeScript, React, React Native. Interested in distributed systems and functional programming. Can design, implement and maintain product infrastructure running on the cloud.</description>
     </item>
     
     <item>
@@ -93,33 +93,6 @@ Currently work mostly on backends in Ruby and Ruby on Rails, but want to switch 
 Были инвайты на интервью в Facebook, Amazon, Google  и пр. Отказывался из-за неуверенности в себе.&lt;/p&gt;
 
 &lt;p&gt;И вот, наконец, этим летом что-то стукнуло в голову, и я начал спонтанно рассылать резюме.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Reading Digest #2</title>
-      <link>https://akrisanov.com/post/2016-05-15-the-reading-digest-2/</link>
-      <pubDate>Sun, 15 May 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/post/2016-05-15-the-reading-digest-2/</guid>
-      <description>#2:  Be The Better Rails Developer  Автор статьи на примере 7 советов показывает как важно понимать БД даже если вы работает с ActiveRecord в Rails и не хотите спускаться до уровня SQL запросов.
- Video: The World of Rails Security  Периодически стоит напоминать себе об основах безопасности при разработке приложений и не надеятся на то, что фреймворк все сделает за вас. В видео с RailsConf 2015 Justin Collins объясняет какие возможности Ruby on Rails предоставляет разработчику &amp;ldquo;из коробки&amp;rdquo;, а так же о чем стоит позаботиться самостоятельно.</description>
-    </item>
-    
-    <item>
-      <title>The Reading Digest #1</title>
-      <link>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</link>
-      <pubDate>Mon, 18 Apr 2016 00:23:29 +0000</pubDate>
-      
-      <guid>https://akrisanov.com/post/2016-04-18-the-reading-digest-1/</guid>
-      <description>&lt;p&gt;У меня не всегда получается писать в блог из-за нехватки времени или банально хороших идей.
-Но каждые выходные я обязательно читаю накопившиеся в RSS, рассылках, Twitter статьи.
-Часто попадаются довольно полезные заметки которыми хочется поделиться и применить в своей работе.&lt;/p&gt;
-
-&lt;p&gt;Поэтому решил начать публиковать свой The Reading Digest.&lt;/p&gt;
-
-&lt;p&gt;Итак&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

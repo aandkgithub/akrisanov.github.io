@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tips  Tricks on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <title>Tips  Tricks on Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
     <link>https://akrisanov.com/tags/tips--tricks/</link>
-    <description>Recent content in Tips  Tricks on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <description>Recent content in Tips  Tricks on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 17 Mar 2017 16:39:29 +0000</lastBuildDate>

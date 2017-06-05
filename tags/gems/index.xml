@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gems on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
+    <title>Gems on Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
     <link>https://akrisanov.com/tags/gems/</link>
-    <description>Recent content in Gems on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <description>Recent content in Gems on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 18 Apr 2016 00:19:29 +0000</lastBuildDate>

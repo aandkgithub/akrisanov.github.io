@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latency Should Know on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</title>
-    <link>https://akrisanov.com/tags/latency-should-know/</link>
-    <description>Recent content in Latency Should Know on Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)</description>
+    <title>Latency on Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
+    <link>https://akrisanov.com/tags/latency/</link>
+    <description>Recent content in Latency on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 05 Apr 2017 11:49:29 +0000</lastBuildDate>
     
-	<atom:link href="https://akrisanov.com/tags/latency-should-know/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akrisanov.com/tags/latency/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
