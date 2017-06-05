@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (Go, JavaScript, Node.js, React, React Native, Ruby)"
+title        = "Software Engineer (Go, JavaScript, Clojure, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
@@ -14,13 +14,14 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 PygmentsCodeFences = true
 
 [params]
-  description = """I work with Go, JavaScript / TypeScript, Node.js, React, React Native and Ruby.
-                   Interested in functional programming (Clojure/F#), distributed systems, and machine learning."""
-  author      = "Andrey Krisanov" # Optional, controls author name display on posts
-  hide_author = true              # Optional, set true to hide author name on posts
-  show_menu   = true              # Optional, set true to enable section menu
-  powered_by  = true              # Optional, set false to disable credits
-  images      = []                # Suggested, adds default OpenGraph image
+  description   = """I work with Go, JavaScript, Clojure and Ruby.
+                     Interested in functional programming, distributed systems, and machine learning."""
+  author        = "Andrey Krisanov" # Optional, controls author name display on posts
+  hide_author   = true              # Optional, set true to hide author name on posts
+  show_menu     = true              # Optional, set true to enable section menu
+  powered_by    = true              # Optional, set false to disable credits
+  images        = []                # Suggested, adds default OpenGraph image
+  theme_variant = "standard dark-grey"
 
 [params.seo.webmaster_verifications]
   google = "EciQ4PNrvJi6zwm0o058Y6ERxdF1pcUPQEidccORsLI" # Optional, Google verification code
@@ -28,24 +29,23 @@ PygmentsCodeFences = true
   yandex = "d5325e91836a5569"                            # Optional, Yandex verification code
   alexa  = ""                                            # Optional, Alexa verification code
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    identifier = "home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Posts"
-    identifier = "post"
-    url = "/post/"
-    weight = 2
-  [[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/about/"
-    weight = 3
-  [[menu.main]]
-    name = "CV"
-    identifier = "cv"
-    url = "/cv/"
-    weight = 4
+[[menu.main]]
+  name       = "Home"
+  weight     = 1
+  identifier = "home"
+  url        = "/"
+[[menu.main]]
+  name       = "Notes"
+  weight     = 2
+  identifier = "post"
+  url        = "/notes/"
+[[menu.main]]
+  name       = "About"
+  weight     = 3
+  identifier = "about"
+  url        = "/about/"
+[[menu.main]]
+  name       = "CV (Resume)"
+  weight     = 4
+  identifier = "cv"
+  url        = "/cv/"

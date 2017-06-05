@@ -1,7 +1,7 @@
 ---
 title: "Latency Numbers Every Programmer Should Know"
 date: "2017-04-05T11:49:29Z"
-tags: ["cheatsheet", "latency, should-know"]
+tags: ["cheatsheet", "latency", "should-know"]
 comments: "true"
 flag: "gb"
 ---

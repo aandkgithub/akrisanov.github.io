@@ -1,0 +1,196 @@
+/*
+#183691
+#795da3
+#0086b3
+*/
+
+html {
+    font-size: 14px
+}
+
+body {
+    color: #323232
+}
+
+blockquote {
+    color: #ed6a43
+}
+
+.standard {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, Ubuntu, segoe ui, arial, sans-serif
+}
+
+.muted {
+    color: gray;
+}
+
+:target {
+    color: #fff;
+}
+
+nav a.active {
+    background-color: #a71d5d;
+    color: #fff;
+}
+
+a[itemprop="url"] {
+    color: #183691;
+}
+
+a[itemprop="url"]:hover {
+    color: #fff;
+}
+
+pre {
+    background-color: #fff;
+    border: 1px solid #f8f8f2;
+}
+
+a {
+    border-bottom: 0px solid #a71d5d;
+    color: #a71d5d;
+}
+
+a:hover {
+    background-color: #a71d5d;
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    color: #323232;
+}
+
+table td,
+table th {
+    border: 1px solid #f8f8f2;
+}
+
+table tbody td:first-child {
+    color: #333;
+    font-weight: 700;
+}
+
+.help-block {
+    color: #999;
+}
+
+.card {
+    border: 1px solid #f8f8f2;
+}
+
+.card .card-header {
+    background-color: #ddd;
+    color: #333;
+}
+
+.alert {
+    border: 1px solid #f8f8f2;
+    color: #f8f8f2;
+}
+
+.alert-success {
+    border-color: #4caf50;
+    color: #4caf50;
+}
+
+.alert-error {
+    border-color: #f44336;
+    color: #f44336;
+}
+
+.alert-info {
+    border-color: #8be9fd;
+    color: #8be9fd;
+}
+
+.alert-warning {
+    border-color: #ed6a43;
+    color: #ed6a43;
+}
+
+.avatarholder,
+.placeholder {
+    background-color: #f0f0f0;
+    border: 1px solid #f0f0f0;
+    color: #b9b9b9;
+}
+
+.loading {
+    border: 2px solid #a71d5d;
+}
+
+.menu {
+    margin-right: 10px;
+}
+
+.standart {
+    color: #f8f8f2;
+}
+
+.standart,
+.standart pre {
+    background-color: #282a36;
+}
+
+.standart pre code {
+    color: #8be9fd;
+}
+
+/*.standart h1 a,
+.standart h2 a,
+.standart h3 a,
+.standart h4 a,
+.standart h5 a {
+    color: #f8f8f2;
+}*/
+
+.standart code,
+.standart strong {
+    color: #fff;
+}
+
+.standart table {
+    color: #f8f8f2;
+}
+
+.standart table td,
+.standart table th {
+    border-color: #444;
+}
+
+.standart table tbody td:first-child {
+    color: #fff;
+}
+
+.standart .card {
+    border-color: rgba(95, 95, 95, .78);
+}
+
+.standart .card .card-header {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(95, 95, 95, .78);
+    color: #f8f8f2;
+}
+
+.standart .avatarholder,
+.standart .placeholder {
+    background-color: transparent;
+    border-color: #333;
+}
+
+.standart .menu .menu-item {
+    border-color: rgba(95, 95, 95, .78);
+    color: #f8f8f2;
+}
+
+.standart .menu .menu-item.active,
+.standart .menu .menu-item:hover {
+    border-color: #f8f8f2;
+    color: #fff;
+}
+
+article {
+    margin-bottom: 4em;
+    margin-top: 20px;
+}

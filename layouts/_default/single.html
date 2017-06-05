@@ -1,0 +1,13 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "header" }}
+  {{ partial "menu.html" . }}
+  <br>
+{{ end }}
+{{ define "main" }}
+  {{ .Content }}
+{{ end }}
+{{ define "footer" }}
+  {{ partial "powered-by.html" . }}
+{{ end }}
