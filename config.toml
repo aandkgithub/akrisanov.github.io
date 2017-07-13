@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (Go, JavaScript, Clojure, Ruby)"
+title        = "Software Engineer (JVM/Clojure(Script), Golang, Ruby)"
 paginate     = 5
 
 theme            = "after-dark"
@@ -11,17 +11,18 @@ disqusShortname  = "akrisanov"
 related_content_limit      = 3
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
-PygmentsCodeFences = true
+pygmentsuseclasses = true
+pygmentsstyle      = "xcode"
 
 [params]
-  description   = """I work with Go, JavaScript, Clojure and Ruby.
-                     Interested in functional programming, distributed systems, and machine learning."""
+  description   = """Software engineer with experience in full-stack application development, DevOps, and team management.
+                     Interested in distributed systems, data engineering, and functional programming."""
   author        = "Andrey Krisanov" # Optional, controls author name display on posts
   hide_author   = true              # Optional, set true to hide author name on posts
   show_menu     = true              # Optional, set true to enable section menu
   powered_by    = true              # Optional, set false to disable credits
   images        = []                # Suggested, adds default OpenGraph image
-  theme_variant = "standard dark-grey"
+  theme_variant = "standard"
 
 [params.seo.webmaster_verifications]
   google = "EciQ4PNrvJi6zwm0o058Y6ERxdF1pcUPQEidccORsLI" # Optional, Google verification code
@@ -34,13 +35,3 @@ PygmentsCodeFences = true
   weight     = 1
   identifier = "home"
   url        = "/"
-[[menu.main]]
-  name       = "About"
-  weight     = 2
-  identifier = "about"
-  url        = "/about/"
-[[menu.main]]
-  name       = "CV (Resume)"
-  weight     = 3
-  identifier = "cv"
-  url        = "/cv/"

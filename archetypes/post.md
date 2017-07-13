@@ -1,6 +1,8 @@
 +++
 description = ""
-draft = true
-categories = [""]
-tags = ["", ""]
+draft       = true
+toc         = false
+categories  = []
+tags        = []
+images      = []
 +++

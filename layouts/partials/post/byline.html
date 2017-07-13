@@ -1,0 +1,9 @@
+<p>
+  {{ with .Params.categories }}
+    in <span itemprop="articleSection">{{ delimit (apply (apply (sort .) "partial" "post/category-link.html" ".") "chomp" ".") ", " " and " }}</span>
+  {{ end }}
+  {{ with .Params.tags }}
+    Tagged {{ delimit (apply (apply (sort .) "partial" "post/tag-link.html" ".") "chomp" ".") ", " " and " }}
+  {{ end }}
+  using <span itemprop="wordCount">{{ .WordCount }}</span> words.
+</p>

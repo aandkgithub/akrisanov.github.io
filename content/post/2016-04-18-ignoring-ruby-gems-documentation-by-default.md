@@ -11,6 +11,6 @@ flag: "ru"
 
 Достаточно добавить в `~/.gemrc` следующую строку:
 
-```bash
+{{< highlight bash >}}
 gem: --no-document
-```
+{{< /highlight >}}
