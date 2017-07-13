@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruby on Software Engineer (Go, JavaScript, Clojure, Ruby)</title>
+    <title>Ruby on Software Engineer (JVM/Clojure(Script), Golang, Ruby)</title>
     <link>https://akrisanov.com/tags/ruby/</link>
-    <description>Recent content in Ruby on Software Engineer (Go, JavaScript, Clojure, Ruby)</description>
+    <description>Recent content in Ruby on Software Engineer (JVM/Clojure(Script), Golang, Ruby)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 18 Apr 2016 00:19:29 +0000</lastBuildDate>
