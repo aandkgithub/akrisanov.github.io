@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (JVM/Clojure(Script), Golang, Ruby)"
+title        = "Software Engineer | Ruby, Golang, JVM / Clojure"
 paginate     = 5
 
 theme            = "after-dark"

@@ -1,5 +1,5 @@
 ---
-title: "Homebrew: remove old versions"
+title: "Remove Old Versions Of Homebrew Packages"
 date: "2017-03-17T16:39:29Z"
 tags: ["MacOS", "Homebrew", "brew", "Tips & Tricks"]
 comments: "true"
