@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineer (JVM/Clojure(Script), Golang, Ruby)</title>
+    <title>Software Engineer | Ruby, Golang, JVM / Clojure</title>
     <link>https://akrisanov.com/</link>
-    <description>Recent content on Software Engineer (JVM/Clojure(Script), Golang, Ruby)</description>
+    <description>Recent content on Software Engineer | Ruby, Golang, JVM / Clojure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 15 Mar 2017 00:58:56 +0100</lastBuildDate>
@@ -19,7 +19,18 @@
       <guid>https://akrisanov.com/about/</guid>
       <description>Hi there. It&amp;rsquo;s nice to see you on my personal blog!
 Short bio My name is Andrey Krisanov and I&amp;rsquo;m a Software Engineer with several years of expirience in full-stack application development, DevOps and team management.
-I’m a polyglot programmer and don&amp;rsquo;t stick with some language or technology stack. It&amp;rsquo;s more important to me to focus on the product development and delivery. At the moment I work on backends in Go, Clojure, and Ruby.</description>
+I’m a polyglot programmer and don&amp;rsquo;t stick with some language or technology stack. It&amp;rsquo;s more important to me to focus on the product development and delivery. At the moment I work on backends in Ruby.</description>
+    </item>
+    
+    <item>
+      <title>Переводы технических статей</title>
+      <link>https://akrisanov.com/post/2017-08-10-translating-technical-articles/</link>
+      <pubDate>Thu, 10 Aug 2017 23:49:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-10-translating-technical-articles/</guid>
+      <description>&lt;p&gt;Некоторое время назад поймал себя на мысли, что почти забросил записи в свой блог и с этим нужно что-то делать.
+Т.к. в свободное время я стараюсь прочитывать накопившиеся RSS-ленты по интересующимся темам,
+то решил начать с внедрения привычки хотя бы переводить с английского языка понравившийся контент.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +63,7 @@ To be honest, there are no high load, no real-time, no network extensive operati
     </item>
     
     <item>
-      <title>Homebrew: remove old versions</title>
+      <title>Remove Old Versions Of Homebrew Packages</title>
       <link>https://akrisanov.com/post/2017-03-17-remove-old-versions/</link>
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
@@ -90,9 +101,8 @@ To be honest, there are no high load, no real-time, no network extensive operati
       <pubDate>Mon, 18 Apr 2016 00:19:29 +0000</pubDate>
       
       <guid>https://akrisanov.com/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/</guid>
-      <description>На окружениях отличных от разработки нет необходимости устанавливать документацию используемых библиотек. Это экономит время деплоя или обновления приложения.
-Достаточно добавить в ~/.gemrc следующую строку:
-gem: --no-document  </description>
+      <description>&lt;p&gt;На окружениях отличных от разработки нет необходимости устанавливать документацию
+используемых библиотек. Это экономит время деплоя или обновления приложения.&lt;/p&gt;</description>
     </item>
     
   </channel>

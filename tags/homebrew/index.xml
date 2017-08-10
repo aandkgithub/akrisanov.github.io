@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homebrew on Software Engineer (JVM/Clojure(Script), Golang, Ruby)</title>
+    <title>Homebrew on Software Engineer | Ruby, Golang, JVM / Clojure</title>
     <link>https://akrisanov.com/tags/homebrew/</link>
-    <description>Recent content in Homebrew on Software Engineer (JVM/Clojure(Script), Golang, Ruby)</description>
+    <description>Recent content in Homebrew on Software Engineer | Ruby, Golang, JVM / Clojure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 17 Mar 2017 16:39:29 +0000</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Homebrew: remove old versions</title>
+      <title>Remove Old Versions Of Homebrew Packages</title>
       <link>https://akrisanov.com/post/2017-03-17-remove-old-versions/</link>
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
