@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Работа on Software Engineer | Ruby, Golang, JVM / Clojure</title>
+    <link>https://akrisanov.com/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</link>
+    <description>Recent content in Работа on Software Engineer | Ruby, Golang, JVM / Clojure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Aug 2017 00:30:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://akrisanov.com/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Что я должен изучить чтобы быть нанятым как Clojure-разработчик?</title>
+      <link>https://akrisanov.com/post/2017-08-11-what-do-i-have-to-learn-to-be-hirable-in-clojure/</link>
+      <pubDate>Fri, 11 Aug 2017 00:30:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-11-what-do-i-have-to-learn-to-be-hirable-in-clojure/</guid>
+      <description>&lt;p&gt;Оригинальная статья &lt;a href=&#34;https://dev.to/ericnormand/what-do-i-have-to-learn-to-be-hirable-in-clojure&#34;&gt;What do I have to learn to be hirable in Clojure?&lt;/a&gt; появилась 10 августа
+в сообществе &lt;code&gt;dev.to&lt;/code&gt; за авторством &lt;code&gt;Eric Normand&lt;/code&gt;, который может быть вам известен по курсам
+функционального программирования &lt;code&gt;purelyfunctional.tv&lt;/code&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

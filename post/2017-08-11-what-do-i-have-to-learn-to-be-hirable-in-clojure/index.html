@@ -4,10 +4,12 @@
     <meta name="generator" content="Hugo 0.26" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Software Engineer | Ruby, Golang, JVM / Clojure</title>
-    <meta name="description" content="Software engineer with experience in full-stack application development, DevOps, and team management.
-                     Interested in distributed systems, data engineering, and functional programming.">
-    <meta name="keywords" content="">
+    <title>Что я должен изучить чтобы быть нанятым как Clojure-разработчик? | Software Engineer | Ruby, Golang, JVM / Clojure</title>
+    <meta name="description" content="Оригинальная статья What do I have to learn to be hirable in Clojure? появилась 10 августа
+в сообществе dev.to за авторством Eric Normand, который может быть вам известен по курсам
+функционального программирования purelyfunctional.tv.
+">
+    <meta name="keywords" content="Clojure, JVM, Functional Programming, FP, Функциональное программирование, Get The Job, Работа">
     
     
     
@@ -17,15 +19,19 @@
   <meta name="author" content="Andrey Krisanov">
 
 
-    <meta property="og:title" content="Software Engineer | Ruby, Golang, JVM / Clojure" />
-<meta property="og:description" content="Software engineer with experience in full-stack application development, DevOps, and team management.
-                     Interested in distributed systems, data engineering, and functional programming." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://akrisanov.com/" />
+    <meta property="og:title" content="Что я должен изучить чтобы быть нанятым как Clojure-разработчик?" />
+<meta property="og:description" content="Оригинальная статья What do I have to learn to be hirable in Clojure? появилась 10 августа
+в сообществе dev.to за авторством Eric Normand, который может быть вам известен по курсам
+функционального программирования purelyfunctional.tv.
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://akrisanov.com/post/2017-08-11-what-do-i-have-to-learn-to-be-hirable-in-clojure/" />
 
 
 
-<meta property="og:updated_time" content="2016-10-30T00:16:19&#43;00:00"/>
+<meta property="article:published_time" content="2017-08-11T00:30:29&#43;00:00"/>
+<meta property="article:modified_time" content="2017-08-11T00:30:29&#43;00:00"/>
+
 
 
 
@@ -44,18 +50,6 @@
     <meta name="theme-color" content="#000">
 
     
-      
-  <meta name="google-site-verification" content="EciQ4PNrvJi6zwm0o058Y6ERxdF1pcUPQEidccORsLI" />
-
-
-  <meta name="msvalidate.01" content="88ED584660D28721AA9E00590ABA227F">
-
-
-
-  <meta name="yandex-verification" content="d5325e91836a5569">
-
-
-    
     
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -65,9 +59,7 @@ ga('send', 'pageview');
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
     
-      <link href="https://akrisanov.com/index.xml" rel="alternate" type="application/rss+xml" title="Software Engineer | Ruby, Golang, JVM / Clojure" />
-    
-    <link rel="canonical" href="https://akrisanov.com/">
+    <link rel="canonical" href="https://akrisanov.com/post/2017-08-11-what-do-i-have-to-learn-to-be-hirable-in-clojure/">
     
     
     
@@ -701,7 +693,7 @@ article {
   <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
     
     
-      <a itemprop="url" class="menu active" href="/"><span itemprop="name">Home</span></a>
+      <a itemprop="url" class="menu " href="/"><span itemprop="name">Home</span></a>
     
       <a itemprop="url" class="menu " href="/about/"><span itemprop="name">About</span></a>
     
@@ -710,105 +702,233 @@ article {
 
 </header>
     <main>
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="name">
-      <a href="/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/">Переезд в Германию. Получение оффера</a>
-    </h2>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
     
-      <p class="muted"><img src="/images/ru.png" style="margin-bottom: -3px" />
+<meta itemprop="name" content="Что я должен изучить чтобы быть нанятым как Clojure-разработчик?">
+<meta itemprop="description" content="Оригинальная статья What do I have to learn to be hirable in Clojure? появилась 10 августа
+в сообществе dev.to за авторством Eric Normand, который может быть вам известен по курсам
+функционального программирования purelyfunctional.tv.
+">
+
+
+<meta itemprop="dateModified" content="2017-08-11T00:30:29&#43;00:00" />
+<meta itemprop="wordCount" content="825">
+
+
+
+<meta itemprop="keywords" content="Clojure,JVM,Functional Programming,FP,Функциональное программирование,Get The Job,Работа," />
+
+    <header>
+      <h1 itemprop="headline">Что я должен изучить чтобы быть нанятым как Clojure-разработчик?</h1>
+      <p class="muted">
+        <img src="/images/ru.png" style="margin-bottom: -3px" />
 <svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
 </svg>
-<span>2 minute read</span>
+<span>4 minute read</span>
 <svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="2016-10-30T00:16:19&#43;00:00">30 Oct, 2016</time>
+  Published: <time datetime="2017-08-11T00:30:29&#43;00:00">11 Aug, 2017</time>
 
+
+      </p>
+    </header>
+    
+    
+
+    <div itemprop="articleBody">
+      <p>Оригинальная статья <a href="https://dev.to/ericnormand/what-do-i-have-to-learn-to-be-hirable-in-clojure">What do I have to learn to be hirable in Clojure?</a> появилась 10 августа
+в сообществе <code>dev.to</code> за авторством <code>Eric Normand</code>, который может быть вам известен по курсам
+функционального программирования <code>purelyfunctional.tv</code>.
 </p>
+
+<p>Один из его читателей спрашивает:</p>
+
+<blockquote>
+На данный момент я работаю разработчиком на Ruby, но хотел бы работать с Clojure, хотя я у меня еще
+начальный уровень языка. К сожалению, я не думаю что компания, в которой я работаю, будет
+использовать Clojure в ближайшем будущем. Также у меня не так много свободного времени для изучения
+Clojure. <strong>Что я должен изучить чтобы быть нанятым как Clojure-разработчик?</strong>
+</blockquote>
+
+<p>Данный вопрос немного с подвохом. Причина этому &ndash; технически вам необходимо 0 знания Clojure для
+получения работы с этим языком. Я знаю это, потому что недавно встретил кое-кого, кто бы нанят
+сразу же после курсов Ruby on Rails для работы с кодом на Clojure. У него не было вообще никакого
+опыта с Clojure.</p>
+
+<p>Я много общаюсь с людьми, которые работают с Clojure и нанимают разработчиков. Они руководствуются
+следующими двумя широкими категориями требований при найме.</p>
+
+<h2 id="1-разработчики-с-хорошим-опытом-в-clojure">1. Разработчики с хорошим опытом в Clojure</h2>
+
+<p>Вы найдете подобные вакансии вакансии по нескольким причинам. Иногда компании стараются
+<strong>заменить разработчиков, которые уходят</strong>. А иногда они только начинают разработку на Clojure и
+планируют <strong>быстро взяться за дело</strong>. Я так же видел как технический директор (CTO), которому
+нравится Clojure, желает найти <strong>более опытных разработчиков на этом языке чем существующая команда</strong>,
+т.к. это совершенно новый мир.</p>
+
+<p>Для подобной работы компании действительно ищут людей с уверенными навыками в Clojure.
+Но есть один секрет, который я расскажу в конце данной статьи.</p>
+
+<h2 id="2-разработчики-без-опыта-в-clojure">2. Разработчики без опыта в Clojure</h2>
+
+<p>Данная категория наиболее интересна, т.к. достаточно много компаний ищут просто «хороших людей».
+Они прекрасно понимают, что <strong>найти опытного программиста на Clojure будет достаточно сложно</strong>.</p>
+
+<p>Для решения данной проблемы компании <strong>инвестируют время и деньги делая вас Clojure-разработчиком</strong>.
+Вам будут платить за изучение языка, и вы будете часто работать с менторами.</p>
+
+<p>Разумеется любой опыт с Clojure поможет в получении работы. Особенно с учетом того, что приведенная
+выше категория компаний получает обычно больше откликов на вакансии, вы явно захотите выделиться
+среди кандидатов. Ниже представлены некоторые вещи, которые позволят вам это сделать.
+Они расположены в порядке важности от самых значимых до малосущественных.</p>
+
+<h3 id="1-опыт-разработки-на-clojure-что">1. Опыт разработки на Clojure (что?!)</h3>
+
+<p><strong>Завершенные проекты на Github.</strong>
+<em>Если вы такой же как я, то ваши проекты врядли когда-нибудь завершаются. Но &ldquo;завершенный&rdquo; проект достигает определенной цели. Это полезно, и это работает.</em></p>
+
+<p>Они не должны занимать много времени или быть сложными. Просто демонстрация того, что вы можете
+разрабатывать на Clojure.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Использование базы данных</li>
+<li>Обращение к стороннему <code>API</code> или сервису</li>
+<li>Использование нескольких потоков (<code>threads</code>)</li>
+<li>Развертывание приложения на <code>Heroku</code> или другом сервисе</li>
+<li>Написание <code>full-stack</code> приложения на <code>Clojure</code> + <code>ClojureScript</code></li>
+</ul>
+
+<h3 id="2-опыт-с-другим-lisp-подобным-языком">2. Опыт с другим Lisp-подобным языком</h3>
+
+<p>По крайней мере это показывает, что вы будете подготовлены к Clojure. Даже курс университета или
+любые завершенные упражнения <a href="https://mitpress.mit.edu/sicp/">SICP</a> вам помогут.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Понимание макросов</li>
+<li>Решение интересных задач (с кодом на Github!)</li>
+</ul>
+
+<h3 id="3-опыт-функционального-программирования">3. Опыт функционального программирования</h3>
+
+<p><code>Haskell</code>, <code>Erlang</code>, <code>Scala</code>, <code>F#</code> &ndash; черт, даже функциональный <code>JavaScript</code> или <code>Java 8 потоки</code>
+(<code>streams</code>) будут впечатляющими.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Понимание трех важных функций <code>map</code>, <code>filter</code>, и <code>reduce</code></li>
+<li>Использование иммутабельных (<code>immutable</code>) структур данных при моделировании решения задачи</li>
+</ul>
+
+<h3 id="4-опыт-с-jvm">4. Опыт с JVM</h3>
+
+<p>Clojure работает поверх <code>JVM</code> (Java Virtual Machine). По этой причине хорошо бы понимать как
+работают объекты, как развертывать и конфигурировать JVM приложения, и многие другие вещи которые
+могут быть полезными когда вы разрабатываете на Clojure. Это поможет вам немного выделиться.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Опыт развертывания (<code>deploy</code>) JVM приложений</li>
+<li>Использование JVM языков помимо <code>Java</code></li>
+<li>Опыт с потоками (<code>streams</code>) в <code>Java 8</code></li>
+<li>Конфигурирование или тюнинг <code>JVM</code></li>
+</ul>
+
+<h3 id="5-опыт-с-javascript">5. Опыт с JavaScript</h3>
+
+<p>Если вы собираетесь использовать <code>ClojureScript</code> в работе, то знание устройства браузера, <code>DOM API</code>, и
+сборки фронтенд-проекта будут полезны.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Использование компилируемых в <code>JavaScript</code> языков, например, <code>CoffeeScript</code></li>
+<li>Опыт разработки <code>React</code> приложений (особенно в паре с <code>Redux</code>)</li>
+<li>Использование <code>Immutable.js</code> или <code>Mori</code></li>
+</ul>
+
+<h3 id="6-несколько-языков-программирования">6. Несколько языков программирования</h3>
+
+<p>Без опыта работы с Clojure вам нужно показать способность изучения нового языка на будущей работе.
+Лучшие кандидаты будут иметь по крайней мере 4 языка с разными парадигмами в своем запасе/резюме.</p>
+
+<p>Бонусные очки за:</p>
+
+<ul>
+<li>Две или более парадигмы программирования (<em>объекто-ориентированное</em>, <em>функциональное</em>, <em>процедурное</em>, <em>логическое</em>)</li>
+<li>Две или более синтаксические семьи языков (<code>C</code> vs <code>Python</code> vs <code>Ruby</code> vs <code>Haskell</code>)</li>
+</ul>
+
+<hr />
+
+<p>В конце концов, основная причина почему люди не получают работу &ndash; они не отправляют резюме в
+достаточное количество компаний. Уделите время вашему резюме: перечислите достижения на работе,
+в университете, стороннем проекте и выделите вещи из приведенного выше списка. Затем, укажите на них
+в сопроводительном email к вашему резюме (<code>cover letter</code>) и на интервью.</p>
+
+<p>Маленький секрет, о котором я упоминал в начале статьи, заключается в том, что даже компании,
+нанимающие опытных Clojure-разработчиков, часто готовы рассматривать сообразительных людей,
+которые хотят изучать новое. Требования в описании вакансии &ndash; всего лишь желаемый набор навыков.
+Поэтому смело подавайтесь!</p>
+
+<div class="alert alert-warning">
+<strong>Примечание переводчика:</strong>
+Данная статья - первая попытка перевода с английского.
+Я по прежнему думаю как лучше обозвать стримы в Java, дабы не переводить их как "потоки".
+Если у вас, уважаемые читатели, есть своя версия, пожалуйста укажите ее в комментариях.
+</div>
+    </div>
     
-  </header>
-  
-  <div itemprop="description">
-    <h2 id="пролог">Пролог</h2>
-
-<p>Еще в университете я начал размышлять о переезде в другую страну. Рассматривал разные варианты - США, Англия, Дания, Швейцария.
-Читал статьи на Хабре, форумы и прочие ресурсы. И все думал &ldquo;нужно подтянуть язык, навыки, а потом уже пробовать переезжать&rdquo;.</p>
-
-<p>К слову универ я окончил в 2011 году. Через год женился, еще через год родился сын,
-нашел высокооплачиваемую работу (120 тыс., а затем 200 тыс. для Брянска - огромные деньги).
-Что еще нужно для счастья?</p>
-
-<p>Во всей этой повседневной суете, куче обещанных перспектив в компании,
-нехватке времени на подготовку и изучение английского потерялось на некоторое время и мое желание куда-то ехать.
-Были инвайты на интервью в Facebook, Amazon, Google  и пр. Отказывался из-за неуверенности в себе.</p>
-
-<p>И вот, наконец, этим летом что-то стукнуло в голову, и я начал спонтанно рассылать резюме.</p>
-
-<p></p>
-  </div>
-  
-    <p><a itemprop="url" href="/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/">Read More&nbsp;&raquo;</a></p>
-  
-  <meta itemprop="inLanguage" content="en-US">
-  <meta itemprop="datePublished" content="2016-10-30T00:16:19&#43;00:00">
-  <meta itemprop="dateModified" content="2016-10-30T00:16:19&#43;00:00">
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="name">
-      <a href="/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/">Игнорирование документации gem-ов по умолчанию</a>
-    </h2>
+      <article>
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
     
-      <p class="muted"><img src="/images/ru.png" style="margin-bottom: -3px" />
-<svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="2016-04-18T00:19:29&#43;00:00">18 Apr, 2016</time>
-
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "akrisanov" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </article>
+    
+    <footer>
+      <hr>
+      <p>
+  
+  
+    Tagged <a href="/tags/clojure/">Clojure</a>, <a href="/tags/fp/">FP</a>, <a href="/tags/functional-programming/">Functional Programming</a>, <a href="/tags/get-the-job/">Get The Job</a>, <a href="/tags/jvm/">JVM</a>, <a href="/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/">Работа</a> and <a href="/tags/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/">Функциональное программирование</a>
+  
+  using <span itemprop="wordCount">825</span> words.
 </p>
-    
-  </header>
-  
-  <div itemprop="description">
-    <p>На окружениях отличных от разработки нет необходимости устанавливать документацию
-используемых библиотек. Это экономит время деплоя или обновления приложения.</p>
-  </div>
-  
-    <p><a itemprop="url" href="/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/">Read More&nbsp;&raquo;</a></p>
-  
-  <meta itemprop="inLanguage" content="en-US">
-  <meta itemprop="datePublished" content="2016-04-18T00:19:29&#43;00:00">
-  <meta itemprop="dateModified" content="2016-04-18T00:19:29&#43;00:00">
-  
-</article>
 
-  
+      
+
+
+
+    </footer>
+  </article>
 </main>
     <footer>
-  <nav>
-  <p>
-    
-      <a href="/">&laquo; Previous</a> |
-    
-    <span>Page 2 of 2</span>
-    
-  </p>
-</nav>
-
   
   <p class="muted">
     Copyright © 2017 <a href="https://twitter.com/akrisanov" target="_blank">@akrisanov</a>
