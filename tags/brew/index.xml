@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Remove Old Versions Of Homebrew Packages</title>
-      <link>https://akrisanov.com/post/2017-03-17-remove-old-versions/</link>
+      <title>Removing Old Versions Of Homebrew Packages</title>
+      <link>https://akrisanov.com/post/2017-03-17-removing-old-versions-of-homebrew-packages/</link>
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/post/2017-03-17-remove-old-versions/</guid>
+      <guid>https://akrisanov.com/post/2017-03-17-removing-old-versions-of-homebrew-packages/</guid>
       <description>brew update &amp;amp;&amp;amp; brew upgrade &amp;amp;&amp;amp; brew cleanup brew doctor  </description>
     </item>
     

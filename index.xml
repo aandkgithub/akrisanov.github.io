@@ -23,7 +23,23 @@ I’m a polyglot programmer and don&amp;rsquo;t stick with some language or tech
     </item>
     
     <item>
-      <title>Что я должен изучить чтобы быть нанятым как Clojure-разработчик?</title>
+      <title>Solving The Hanging Problem In Ember CLI</title>
+      <link>https://akrisanov.com/post/2017-08-11-solving-the-hanging-problem-in-ember-cli/</link>
+      <pubDate>Fri, 11 Aug 2017 17:51:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-11-solving-the-hanging-problem-in-ember-cli/</guid>
+      <description>&lt;p&gt;Working on some project today I had a problem with building an Ember application.
+The process has stuck right after running &lt;code&gt;ember build&lt;/code&gt; or &lt;code&gt;ember serve&lt;/code&gt;.
+No output, no CPU activity, nothing.&lt;/p&gt;
+
+&lt;p&gt;The first thing that people usually do to solve any issue in JavaScript project,
+it&amp;rsquo;s a clearing the NPM and other package managers cache. I did the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Что я должен изучить чтобы получить работу Clojure-разработчика?</title>
       <link>https://akrisanov.com/post/2017-08-11-what-do-i-have-to-learn-to-be-hirable-in-clojure/</link>
       <pubDate>Fri, 11 Aug 2017 00:30:29 +0000</pubDate>
       
@@ -75,11 +91,11 @@ To be honest, there are no high load, no real-time, no network extensive operati
     </item>
     
     <item>
-      <title>Remove Old Versions Of Homebrew Packages</title>
-      <link>https://akrisanov.com/post/2017-03-17-remove-old-versions/</link>
+      <title>Removing Old Versions Of Homebrew Packages</title>
+      <link>https://akrisanov.com/post/2017-03-17-removing-old-versions-of-homebrew-packages/</link>
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
-      <guid>https://akrisanov.com/post/2017-03-17-remove-old-versions/</guid>
+      <guid>https://akrisanov.com/post/2017-03-17-removing-old-versions-of-homebrew-packages/</guid>
       <description>brew update &amp;amp;&amp;amp; brew upgrade &amp;amp;&amp;amp; brew cleanup brew doctor  </description>
     </item>
     
