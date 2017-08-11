@@ -1,7 +1,7 @@
 ---
 title: "The Three C's Rule Of Career Development"
 date: "2017-04-02T15:22:29Z"
-tags: ["career"]
+tags: ["Career", "Work", "Job"]
 comments: "true"
 flag: "gb"
 ---

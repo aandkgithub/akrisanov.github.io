@@ -1,7 +1,7 @@
 ---
 title: "Игнорирование документации gem-ов по умолчанию"
 date: "2016-04-18T00:19:29Z"
-tags: ["ruby", "gems", "docs"]
+tags: ["Ruby", "Gems", "Documentation"]
 comments: "true"
 flag: "ru"
 ---
