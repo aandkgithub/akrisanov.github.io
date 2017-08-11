@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Cve</title>
+      <link>https://akrisanov.com/tags/cve/</link>
+      <pubDate>Sat, 12 Aug 2017 00:20:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/tags/cve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Debug</title>
       <link>https://akrisanov.com/tags/debug/</link>
       <pubDate>Fri, 11 Aug 2017 17:51:29 +0000</pubDate>
@@ -138,6 +147,15 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://akrisanov.com/tags/git/</link>
+      <pubDate>Sat, 12 Aug 2017 00:20:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Homebrew</title>
       <link>https://akrisanov.com/tags/homebrew/</link>
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
@@ -201,6 +219,15 @@
     </item>
     
     <item>
+      <title>Security</title>
+      <link>https://akrisanov.com/tags/security/</link>
+      <pubDate>Sat, 12 Aug 2017 00:20:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Should Know</title>
       <link>https://akrisanov.com/tags/should-know/</link>
       <pubDate>Wed, 05 Apr 2017 11:49:29 +0000</pubDate>
@@ -215,6 +242,15 @@
       <pubDate>Fri, 17 Mar 2017 16:39:29 +0000</pubDate>
       
       <guid>https://akrisanov.com/tags/tips--tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerability</title>
+      <link>https://akrisanov.com/tags/vulnerability/</link>
+      <pubDate>Sat, 12 Aug 2017 00:20:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/tags/vulnerability/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,26 @@
     <description>Recent content in Posts on Software Engineer | Ruby, Golang, JVM / Clojure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Aug 2017 17:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 00:20:29 +0000</lastBuildDate>
     
 	<atom:link href="https://akrisanov.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Релиз Git 2.14.1 закрывающий выполнение любой программы через ssh://... URL</title>
+      <link>https://akrisanov.com/post/2017-08-12-upgrade-your-git/</link>
+      <pubDate>Sat, 12 Aug 2017 00:20:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-12-upgrade-your-git/</guid>
+      <description>&lt;p&gt;Пару дней назад команда Git выпустила &lt;a href=&#34;https://marc.info/?l=git&amp;amp;m=150238802328673&amp;amp;w=2&#34;&gt;релиз 2.14.1&lt;/a&gt;
+закрывающий уязвимость &lt;code&gt;CVE-2017-1000117&lt;/code&gt; в URL репозиториев.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+    &lt;strong&gt;Настоятельно рекомендую обновиться до последней версии.&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Solving The Hanging Problem In Ember CLI</title>
