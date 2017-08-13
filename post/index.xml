@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Software Engineer | Ruby, Golang, JVM / Clojure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Aug 2017 00:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 01:35:29 +0000</lastBuildDate>
     
 	<atom:link href="https://akrisanov.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JavaScript для людей, которые ненавидят JavaScript</title>
+      <link>https://akrisanov.com/post/2017-08-13-javascript-for-people-who-hate-javascript/</link>
+      <pubDate>Sun, 13 Aug 2017 01:35:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-13-javascript-for-people-who-hate-javascript/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Перевод статьи Зака Холмэна &lt;a href=&#34;https://zachholman.com/posts/javacript-haters&#34;&gt;JavaScript for People
+Who Hate JavaScript&lt;/a&gt; о его чувствах к
+современному JavaScript с точки зрения Ruby-разработчика.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Релиз Git 2.14.1 закрывающий выполнение любой программы через ssh://... URL</title>
