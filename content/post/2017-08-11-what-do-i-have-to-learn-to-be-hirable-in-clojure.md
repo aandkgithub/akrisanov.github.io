@@ -3,6 +3,7 @@ title: "Что я должен изучить чтобы получить раб
 date: "2017-08-11T00:30:29Z"
 tags: ["Clojure", "JVM", "Functional Programming", "FP", "Функциональное программирование", "Get The Job", "Работа"]
 comments: "true"
+langCode: "ru"
 flag: "ru"
 ---
 

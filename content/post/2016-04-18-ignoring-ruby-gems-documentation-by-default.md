@@ -3,6 +3,7 @@ title: "Игнорирование документации gem-ов по умо
 date: "2016-04-18T00:19:29Z"
 tags: ["Ruby", "Gems", "Documentation"]
 comments: "true"
+langCode: "ru"
 flag: "ru"
 ---
 

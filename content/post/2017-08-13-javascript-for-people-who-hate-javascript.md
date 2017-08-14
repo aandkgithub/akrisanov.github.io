@@ -3,6 +3,7 @@ title: "JavaScript для людей, которые ненавидят JavaScri
 date: "2017-08-13T01:35:29Z"
 tags: ["JavaScript"]
 comments: "true"
+langCode: "ru"
 flag: "ru"
 ---
 

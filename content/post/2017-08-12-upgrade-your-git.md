@@ -3,6 +3,7 @@ title: "Релиз Git 2.14.1 закрывающий выполнение люб
 date: "2017-08-12T00:20:29Z"
 tags: ["Git", "Security", "Vulnerability", "CVE"]
 comments: "true"
+langCode: "ru"
 flag: "ru"
 ---
 
