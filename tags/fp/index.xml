@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fp on Software Engineer | Ruby, Golang, JVM / Clojure</title>
+    <title>Fp on Software Engineer (Ruby, Golang, Clojure)</title>
     <link>https://akrisanov.com/tags/fp/</link>
-    <description>Recent content in Fp on Software Engineer | Ruby, Golang, JVM / Clojure</description>
+    <description>Recent content in Fp on Software Engineer (Ruby, Golang, Clojure)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 11 Aug 2017 00:30:29 +0000</lastBuildDate>

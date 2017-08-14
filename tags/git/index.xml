@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on Software Engineer | Ruby, Golang, JVM / Clojure</title>
+    <title>Git on Software Engineer (Ruby, Golang, Clojure)</title>
     <link>https://akrisanov.com/tags/git/</link>
-    <description>Recent content in Git on Software Engineer | Ruby, Golang, JVM / Clojure</description>
+    <description>Recent content in Git on Software Engineer (Ruby, Golang, Clojure)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 12 Aug 2017 00:20:29 +0000</lastBuildDate>
