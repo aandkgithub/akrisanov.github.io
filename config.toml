@@ -1,6 +1,6 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
-title        = "Software Engineer (Ruby, Golang, Clojure)"
+title        = "Andrey Krisanov - Yet Another Software Engineer Notes"
 paginate     = 5
 
 theme            = "after-dark"
