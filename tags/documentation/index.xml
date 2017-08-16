@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on Software Engineer (Ruby, Golang, Clojure)</title>
+    <title>Documentation on Andrey Krisanov - Yet Another Software Engineer Notes</title>
     <link>https://akrisanov.com/tags/documentation/</link>
-    <description>Recent content in Documentation on Software Engineer (Ruby, Golang, Clojure)</description>
+    <description>Recent content in Documentation on Andrey Krisanov - Yet Another Software Engineer Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 18 Apr 2016 00:19:29 +0000</lastBuildDate>

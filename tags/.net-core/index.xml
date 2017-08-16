@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.Net Core on Andrey Krisanov - Yet Another Software Engineer Notes</title>
+    <link>https://akrisanov.com/tags/.net-core/</link>
+    <description>Recent content in .Net Core on Andrey Krisanov - Yet Another Software Engineer Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Aug 2017 08:00:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://akrisanov.com/tags/.net-core/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Почему я снова с интересом смотрю на .NET</title>
+      <link>https://akrisanov.com/post/2017-08-16-why-i-am-interested-in-dotnet-again/</link>
+      <pubDate>Wed, 16 Aug 2017 08:00:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-16-why-i-am-interested-in-dotnet-again/</guid>
+      <description>В десятом классе школы, когда играть на компьютере просто наскучило, мне под руку попалась книга по Delphi 8. Я до сих пор помню как часами просиживал за передиранием примеров из книги и их модификацией. Это было время Windows XP на моем десктопе, Winamp (и бесчисленных скинов к нему), Total Commander и прочего крякнутого (cracked)] софта, а так же изредка форматирования всего жесткого диска из-за попытки установки SUSE Linux. Спасибо журналу Хакер.</description>
+    </item>
+    
+  </channel>
+</rss>
