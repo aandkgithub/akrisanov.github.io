@@ -36,6 +36,7 @@ ember-cli:watcher execSync("watchman version") +0ms
 {{</highlight>}}
 
 That's it! I realized that something wrong with the `watcher` package.
+Namely, another program called `watcher` was installed on my laptop in `/usr/bin` folder.
 
 {{<highlight bash>}}
 ~/W/a/client » watchman version
@@ -52,6 +53,6 @@ That's it! I realized that something wrong with the `watcher` package.
 > Please specify a target and action
 {{</highlight>}}
 
-I installed the watcher globally in the system and it solved my issue.
+Then I setup the NPM package globally in the system and it solved my issue.
 
 <div class="alert alert-warning"><strong>Tip of the day:</strong> DEBUG=ember-cli* ember [command]</div>
