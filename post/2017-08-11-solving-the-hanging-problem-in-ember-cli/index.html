@@ -724,7 +724,7 @@ it&rsquo;s a clearing the NPM and other package managers cache. I did the same.
 
 
 <meta itemprop="dateModified" content="2017-08-11T17:51:29&#43;00:00" />
-<meta itemprop="wordCount" content="219">
+<meta itemprop="wordCount" content="234">
 
 
 
@@ -781,7 +781,8 @@ ember-cli:watcher execSync<span class="o">(</span><span class="s2">&quot;watchma
 </code></pre></div>
 
 
-<p>That&rsquo;s it! I realized that something wrong with the <code>watcher</code> package.</p>
+<p>That&rsquo;s it! I realized that something wrong with the <code>watcher</code> package.
+Namely, another program called <code>watcher</code> was installed on my laptop in <code>/usr/bin</code> folder.</p>
 
 <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>~/W/a/client » watchman version
 &gt; ^C
@@ -798,7 +799,7 @@ ember-cli:watcher execSync<span class="o">(</span><span class="s2">&quot;watchma
 </code></pre></div>
 
 
-<p>I installed the watcher globally in the system and it solved my issue.</p>
+<p>Then I setup the NPM package globally in the system and it solved my issue.</p>
 
 <div class="alert alert-warning"><strong>Tip of the day:</strong> DEBUG=ember-cli* ember [command]</div>
     </div>
@@ -833,7 +834,7 @@ ember-cli:watcher execSync<span class="o">(</span><span class="s2">&quot;watchma
   
     Tagged <a href="/tags/debug/">Debug</a>, <a href="/tags/ember.js/">Ember.js</a>, <a href="/tags/npm/">NPM</a> and <a href="/tags/ember-cli/">ember-cli</a>
   
-  using <span itemprop="wordCount">219</span> words.
+  using <span itemprop="wordCount">234</span> words.
 </p>
 
       
