@@ -1,7 +1,7 @@
 baseurl      = "https://akrisanov.com/"
 languageCode = "en-US"
 title        = "Andrey Krisanov - Yet Another Software Engineer Notes"
-paginate     = 5
+paginate     = 10
 
 theme            = "after-dark"
 enableRobotsTXT  = true
@@ -15,8 +15,11 @@ pygmentsuseclasses = true
 pygmentsstyle      = "xcode"
 
 [params]
-  description   = """Software engineer with experience in full-stack application development, DevOps, and team management.
-                     Interested in distributed systems, data engineering, and functional programming."""
+  description   = """Hi! My name is Andrey Krisanov. I'm Software engineer with several years of
+                     experience in full-stack application development, DevOps, and team management.
+                     I write this blog in English and Russian about things that I'm interested in:
+                     programming languages, distributed systems, data engineering, IT industry
+                     and startups."""
   author        = "Andrey Krisanov" # Optional, controls author name display on posts
   hide_author   = true              # Optional, set true to hide author name on posts
   show_menu     = true              # Optional, set true to enable section menu
