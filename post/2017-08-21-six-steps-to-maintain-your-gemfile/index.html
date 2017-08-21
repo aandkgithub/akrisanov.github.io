@@ -4,36 +4,28 @@
     <meta name="generator" content="Hugo 0.26" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Posts | Andrey Krisanov - Yet Another Software Engineer Notes</title>
-    <meta name="description" content="Hi! My name is Andrey Krisanov. I&#39;m Software engineer with several years of
-                     experience in full-stack application development, DevOps, and team management.
-                     I write this blog in English and Russian about things that I&#39;m interested in:
-                     programming languages, distributed systems, data engineering, IT industry
-                     and startups.">
-    <meta name="keywords" content="">
+    <title>Six Steps to Maintain Your Gemfile | Andrey Krisanov - Yet Another Software Engineer Notes</title>
+    <meta name="description" content="If you work with Ruby, you use Bundler all the time, I believe. Bundler manages all the gems that the application or library depends on. You just have to define them in Gemfile and execute a proper command for installing or updating your libraries. Sounds easy, right? But you, of course, know that is not 100% true for big projects or for projects where the team does releases frequently during the day.">
+    <meta name="keywords" content="Gemfile, Maintenance, Best Practices">
     
     
     
-    
-      <meta name="robots" content="noindex">
     
     
 
   <meta name="author" content="Andrey Krisanov">
 
 
-    <meta property="og:title" content="Posts" />
-<meta property="og:description" content="Hi! My name is Andrey Krisanov. I&#39;m Software engineer with several years of
-                     experience in full-stack application development, DevOps, and team management.
-                     I write this blog in English and Russian about things that I&#39;m interested in:
-                     programming languages, distributed systems, data engineering, IT industry
-                     and startups." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://akrisanov.com/post/" />
+    <meta property="og:title" content="Six Steps to Maintain Your Gemfile" />
+<meta property="og:description" content="If you work with Ruby, you use Bundler all the time, I believe. Bundler manages all the gems that the application or library depends on. You just have to define them in Gemfile and execute a proper command for installing or updating your libraries. Sounds easy, right? But you, of course, know that is not 100% true for big projects or for projects where the team does releases frequently during the day." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://akrisanov.com/post/2017-08-21-six-steps-to-maintain-your-gemfile/" />
 
 
 
-<meta property="og:updated_time" content="2017-03-17T16:39:29&#43;00:00"/>
+<meta property="article:published_time" content="2017-08-21T21:29:29&#43;00:00"/>
+<meta property="article:modified_time" content="2017-08-21T21:29:29&#43;00:00"/>
+
 
 
 
@@ -61,9 +53,7 @@ ga('send', 'pageview');
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
     
-      <link href="https://akrisanov.com/post/index.xml" rel="alternate" type="application/rss+xml" title="Andrey Krisanov - Yet Another Software Engineer Notes" />
-    
-    <link rel="canonical" href="https://akrisanov.com/post/">
+    <link rel="canonical" href="https://akrisanov.com/post/2017-08-21-six-steps-to-maintain-your-gemfile/">
     
     
     
@@ -706,141 +696,219 @@ article {
 
 </header>
     <main>
-  <header>
-    <h1>Posts</h1>
-  </header>
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="name">
-      <a href="/post/2017-03-17-removing-old-versions-of-homebrew-packages/">Removing Old Versions Of Homebrew Packages</a>
-    </h2>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
     
-      <p class="muted"><img src="/images/gb.png" style="margin-bottom: -3px" />
+<meta itemprop="name" content="Six Steps to Maintain Your Gemfile">
+<meta itemprop="description" content="If you work with Ruby, you use Bundler all the time, I believe. Bundler manages all the gems that the application or library depends on. You just have to define them in Gemfile and execute a proper command for installing or updating your libraries. Sounds easy, right? But you, of course, know that is not 100% true for big projects or for projects where the team does releases frequently during the day.">
+
+
+<meta itemprop="dateModified" content="2017-08-21T21:29:29&#43;00:00" />
+<meta itemprop="wordCount" content="890">
+
+
+
+<meta itemprop="keywords" content="Gemfile,Maintenance,Best Practices," />
+
+    <header>
+      <h1 itemprop="headline">Six Steps to Maintain Your Gemfile</h1>
+      <p class="muted">
+        <img src="/images/gb.png" style="margin-bottom: -3px" />
 <svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <circle cx="16" cy="16" r="14" />
   <path d="M16 8 L16 16 20 20" />
 </svg>
-<span>1 minute read</span>
+<span>5 minute read</span>
 <svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
   <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
 </svg>
 
-  Published: <time datetime="2017-03-17T16:39:29&#43;00:00">17 Mar, 2017</time>
+  Published: <time datetime="2017-08-21T21:29:29&#43;00:00">21 Aug, 2017</time>
 
+
+      </p>
+    </header>
+    
+    
+
+    <div itemprop="articleBody">
+      
+
+<p>If you work with Ruby, you use Bundler all the time, I believe. Bundler manages all the gems that
+the application or library depends on. You just have to define them in Gemfile and execute a proper
+command for installing or updating your libraries. Sounds easy, right? But you, of course, know that
+is not 100% true for big projects or for projects where the team does releases frequently during the day.</p>
+
+<p>In most cases, the Gemfile grows fast, dependency definitions scattered in the file, versions are
+not properly set and so on, and so forth. Have you ever had a problem with running <code>bundle update</code>
+and getting conflicting gems message? When a security patch for some gem was released,
+but your hands were tied because of reason above? I have this issue almost every time when I start
+working on an application which is already in active development or, even worse, abandoned for a while.</p>
+
+<p>In this guide, I would like to share with you some steps for preventing such issues in the
+Gemfile-based applications. Most likely, Rails projects.</p>
+
+<h2 id="step-0-use-rvm-and-rbenv-for-having-a-uniform-version-of-ruby-across-the-team">Step 0: use RVM and Rbenv for having a uniform version of Ruby across the team</h2>
+
+<p>Create <code>.ruby-verion</code> and <code>.ruby-gemset</code> files (RVM) with specific version of Ruby and gem set name.
+Commit them into revision control system. Use the same version on continuous integration server and
+all environments. This action will stop an introduction of not compatible and old dependencies
+by team members.</p>
+
+<h2 id="step-1-be-aware-of-language-vulnerabilities">Step 1: be aware of language vulnerabilities</h2>
+
+<p>Make checking <a href="https://www.ruby-lang.org/en/security/">the Ruby security page</a> a part of your
+maintenance process. Subscribe to the mailing list and immediately update Ruby when new
+vulnerabilities are fixed.</p>
+
+<h2 id="step-2-check-vulnerable-versions-in-dependencies">Step 2: check vulnerable versions in dependencies</h2>
+
+<p><a href="https://github.com/rubysec/bundler-audit">Bundler Audit</a> solves this problem for you.
+Just execute <code>bundle-audit</code> and make sure that you get next message: <strong>No vulnerabilities found.</strong></p>
+
+<p>Otherwise, all warnings must be fixed. Usually, it includes 2 major things:</p>
+
+<ul>
+<li>upgrading vulnerable gem to the teeny version.
+You can find a bit more about Ruby versioning policy <a href="https://www.ruby-lang.org/en/news/2013/12/21/ruby-version-policy-changes-with-2-1-0/">here</a>.</li>
+<li>replacing <code>http://</code> or <code>git://</code> in repository url by secured <code>https://</code></li>
+</ul>
+
+<p>bundle-audit could run on continuous integration server and fail your build or test run in case
+of existing vulnerabilities.</p>
+
+<h2 id="step-3-do-a-licensing-audit">Step 3: do a licensing audit</h2>
+
+<p>Living in the age of open-source software gives us a luxury of using tons of existing libraries and
+be productive, be focused on solving business problems. But most of the developers don&rsquo;t think
+about legal aspects when they introduce a new gem or a package. And this could cost to the company
+a big amount of money.</p>
+
+<p>Just remember: &ldquo;Unlicensed code is copyrighted code that you do not have the permission to use.&rdquo;.</p>
+
+<p>Recently I found very useful gem (hah, gem for solving issues with gem) called <code>license_finder</code>.
+The tool is maintained by Pivotal and all dependencies for licenses. It works with Python, Node,
+Go, Java as well. Check <a href="https://github.com/pivotal/LicenseFinder">the Github repo</a>.</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ gem install license_finder
+$ license_finder
+........................................
+Dependencies that need approval:
+bundler, <span class="m">1</span>.12.5, MIT
+minitest, <span class="m">5</span>.10.2, MIT
+rake, <span class="m">12</span>.0.0, MIT
+simplecov, <span class="m">0</span>.13.0, MIT
+simplecov-html, <span class="m">0</span>.10.1, MIT
+....
+</code></pre></div>
+
+
+<p>Specify the whitelist of allowed licenses and run <code>license_finder</code> again for approving dependencies:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>$ license_finder whitelist add MIT
+$ license_finder
+........................................
+</code></pre></div>
+
+
+<h2 id="step-4-upgrade-gems-carefully">Step 4: upgrade gems carefully</h2>
+
+<p>The basic rule is don&rsquo;t try to upgrade to major versions without reading <code>CHANGELOG</code> and being sure
+that is no breaking API there.</p>
+
+<p>Go to <a href="https://rubygems.org">RubyGems</a> and check how old the dependency is.
+Even if you wouldn&rsquo;t use new API or features of the gem, upgrade it for the future.</p>
+
+<p>If another dependency is conflicting with new version try to upgrade this dependency as well.
+Make notes if the process didn&rsquo;t succeed.</p>
+
+<p>And last, try to use annotation to make people know about the maintainability without looking
+on the Internet. I know, it&rsquo;s too verbose, but can be helpful. Some examples from my Gemfile:</p>
+
+<ul>
+<li><code>May 2017</code> &ndash; release month</li>
+<li><code>May 2016 &lt;- TODO: upgrade to 0.9+</code> &ndash; release month and the possibility for upgrading the gem</li>
+<li><code># FIXME: upgrade to &gt; 3.4.4 breaks permitted params: undefined method &quot;wrap&quot;</code> &ndash; make the team be aware of upgrade issues</li>
+<li><code># NOTE: Gem &quot;config&quot; must be placed before &quot;aws-sdk&quot; and &quot;typeform&quot;</code> &ndash; says about the problem with dependencies loading</li>
+</ul>
+
+<h2 id="step-5-take-care-of-gemfile-readability">Step 5: take care of Gemfile readability</h2>
+
+<p>Use consistent formatting, grouping with blocks instead of single line definitions, split all
+dependencies into sections:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span></span><span class="c1">## Backgroud jobs, queue -------------------------------------------------</span>
+
+<span class="n">gem</span> <span class="s2">&quot;daemons&quot;</span><span class="p">,</span>                   <span class="s2">&quot;1.2.4&quot;</span> <span class="c1"># Aug 2016</span>
+<span class="n">gem</span> <span class="s2">&quot;delayed_job&quot;</span><span class="p">,</span>               <span class="s2">&quot;4.1.3&quot;</span> <span class="c1"># May 2017</span>
+<span class="n">gem</span> <span class="s2">&quot;delayed_job_active_record&quot;</span><span class="p">,</span> <span class="s2">&quot;4.1.2&quot;</span> <span class="c1"># May 2017</span>
+<span class="n">gem</span> <span class="s2">&quot;delayed_job_web&quot;</span><span class="p">,</span>           <span class="s2">&quot;1.4&quot;</span>   <span class="c1"># May 2017</span>
+<span class="n">gem</span> <span class="s2">&quot;stomp&quot;</span><span class="p">,</span>                     <span class="s2">&quot;1.4.4&quot;</span> <span class="c1"># Jun 2017</span>
+
+<span class="c1">## Logs, metrics ---------------------------------------------------------</span>
+
+<span class="n">gem</span> <span class="s2">&quot;grape_logging&quot;</span><span class="p">,</span>  <span class="s2">&quot;1.5.0&quot;</span>  <span class="c1"># May 2017</span>
+<span class="n">gem</span> <span class="s2">&quot;lograge&quot;</span><span class="p">,</span>        <span class="s2">&quot;0.5.1&quot;</span>  <span class="c1"># May 2017</span>
+<span class="n">gem</span> <span class="s2">&quot;logstash-event&quot;</span><span class="p">,</span> <span class="s2">&quot;1.2.02&quot;</span> <span class="c1"># Sep 2013</span>
+</code></pre></div>
+
+
+<p>Just follow it. Don&rsquo;t put new gems in random places of the file.Find your own way of organizing
+dependencies and just follow it. Don&rsquo;t put new gems in random places of the file.</p>
+
+<h2 id="step-6-think-more-when-you-introduce-a-new-gem">Step 6: think more when you introduce a new gem</h2>
+
+<p>Ask yourself a new question: do you really need a new gem for solving the problem?
+Maybe you can use Ruby standard library, Rails features, or existing gem instead.
+Yes, it can cost you a bit more time, but wouldn&rsquo;t bloat dependencies.</p>
+
+<hr />
+
+<p><strong>P.S. I would like to hear how you keep your Gemfile and dependencies maintainable.
+Please don&rsquo;t hesitate to write some comments and share your experience.</strong></p>
+
+    </div>
+    
+      <article>
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "akrisanov" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </article>
+    
+    <footer>
+      <hr>
+      <p>
+  
+  
+    Tagged <a href="/tags/best-practices/">Best Practices</a>, <a href="/tags/gemfile/">Gemfile</a> and <a href="/tags/maintenance/">Maintenance</a>
+  
+  using <span itemprop="wordCount">890</span> words.
 </p>
-    
-  </header>
-  
-  <div itemprop="description">
-    brew update &amp;&amp; brew upgrade &amp;&amp; brew cleanup brew doctor  
-  </div>
-  
-  <meta itemprop="inLanguage" content="en-US">
-  <meta itemprop="datePublished" content="2017-03-17T16:39:29&#43;00:00">
-  <meta itemprop="dateModified" content="2017-03-17T16:39:29&#43;00:00">
-  
-</article>
 
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="name">
-      <a href="/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/">Переезд в Германию. Получение оффера</a>
-    </h2>
-    
-      <p class="muted"><img src="/images/ru.png" style="margin-bottom: -3px" />
-<svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>2 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
+      
 
-  Published: <time datetime="2016-10-30T00:16:19&#43;00:00">30 Oct, 2016</time>
 
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    <h2 id="пролог">Пролог</h2>
 
-<p>Еще в университете я начал размышлять о переезде в другую страну. Рассматривал разные варианты - США, Англия, Дания, Швейцария.
-Читал статьи на Хабре, форумы и прочие ресурсы. И все думал &ldquo;нужно подтянуть язык, навыки, а потом уже пробовать переезжать&rdquo;.</p>
-
-<p>К слову универ я окончил в 2011 году. Через год женился, еще через год родился сын,
-нашел высокооплачиваемую работу (120 тыс., а затем 200 тыс. для Брянска - огромные деньги).
-Что еще нужно для счастья?</p>
-
-<p>Во всей этой повседневной суете, куче обещанных перспектив в компании,
-нехватке времени на подготовку и изучение английского потерялось на некоторое время и мое желание куда-то ехать.
-Были инвайты на интервью в Facebook, Amazon, Google  и пр. Отказывался из-за неуверенности в себе.</p>
-
-<p>И вот, наконец, этим летом что-то стукнуло в голову, и я начал спонтанно рассылать резюме.</p>
-
-<p></p>
-  </div>
-  
-    <p><a itemprop="url" href="/post/2016-10-30-%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-%D0%B2-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%84%D1%84%D0%B5%D1%80%D0%B0/">Read More&nbsp;&raquo;</a></p>
-  
-  <meta itemprop="inLanguage" content="ru">
-  <meta itemprop="datePublished" content="2016-10-30T00:16:19&#43;00:00">
-  <meta itemprop="dateModified" content="2016-10-30T00:16:19&#43;00:00">
-  
-</article>
-
-  
-    <article itemscope itemtype="http://schema.org/CreativeWork">
-  <header>
-    <h2 itemprop="name">
-      <a href="/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/">Игнорирование документации gem-ов по умолчанию</a>
-    </h2>
-    
-      <p class="muted"><img src="/images/ru.png" style="margin-bottom: -3px" />
-<svg style="margin-bottom:-3px" id="i-clock" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <circle cx="16" cy="16" r="14" />
-  <path d="M16 8 L16 16 20 20" />
-</svg>
-<span>1 minute read</span>
-<svg style="margin-bottom: -3px" id="i-edit" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-  <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-</svg>
-
-  Published: <time datetime="2016-04-18T00:19:29&#43;00:00">18 Apr, 2016</time>
-
-</p>
-    
-  </header>
-  
-  <div itemprop="description">
-    <p>На окружениях отличных от разработки нет необходимости устанавливать документацию
-используемых библиотек. Это экономит время деплоя или обновления приложения.</p>
-  </div>
-  
-    <p><a itemprop="url" href="/post/2016-04-18-ignoring-ruby-gems-documentation-by-default/">Read More&nbsp;&raquo;</a></p>
-  
-  <meta itemprop="inLanguage" content="ru">
-  <meta itemprop="datePublished" content="2016-04-18T00:19:29&#43;00:00">
-  <meta itemprop="dateModified" content="2016-04-18T00:19:29&#43;00:00">
-  
-</article>
-
-  
+    </footer>
+  </article>
 </main>
     <footer>
-  <nav>
-  <p>
-    
-      <a href="/post/">&laquo; Previous</a> |
-    
-    <span>Page 2 of 2</span>
-    
-  </p>
-</nav>
-
   
   <p class="muted">
     Copyright © 2017 <a href="https://twitter.com/akrisanov" target="_blank">@akrisanov</a>

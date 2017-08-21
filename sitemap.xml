@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://akrisanov.com/post/2017-08-21-six-steps-to-maintain-your-gemfile/</loc>
+    <lastmod>2017-08-21T21:29:29+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akrisanov.com/post/2017-08-16-programming-books/</loc>
     <lastmod>2017-08-17T22:00:29+00:00</lastmod>
   </url>
@@ -82,6 +87,12 @@
   <url>
     <loc>https://akrisanov.com/</loc>
     <lastmod>2017-03-15T00:58:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akrisanov.com/tags/best-practices/</loc>
+    <lastmod>2017-08-21T21:29:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,6 +186,12 @@
   </url>
   
   <url>
+    <loc>https://akrisanov.com/tags/gemfile/</loc>
+    <lastmod>2017-08-21T21:29:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akrisanov.com/tags/gems/</loc>
     <lastmod>2016-04-18T00:19:29+00:00</lastmod>
     <priority>0</priority>
@@ -229,6 +246,12 @@
   </url>
   
   <url>
+    <loc>https://akrisanov.com/tags/maintenance/</loc>
+    <lastmod>2017-08-21T21:29:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akrisanov.com/tags/microsoft/</loc>
     <lastmod>2017-08-16T08:00:29+00:00</lastmod>
     <priority>0</priority>
@@ -242,7 +265,7 @@
   
   <url>
     <loc>https://akrisanov.com/post/</loc>
-    <lastmod>2017-08-17T22:00:29+00:00</lastmod>
+    <lastmod>2017-08-21T21:29:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   

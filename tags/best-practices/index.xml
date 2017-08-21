@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Practices on Andrey Krisanov - Yet Another Software Engineer Notes</title>
+    <link>https://akrisanov.com/tags/best-practices/</link>
+    <description>Recent content in Best Practices on Andrey Krisanov - Yet Another Software Engineer Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Aug 2017 21:29:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://akrisanov.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Six Steps to Maintain Your Gemfile</title>
+      <link>https://akrisanov.com/post/2017-08-21-six-steps-to-maintain-your-gemfile/</link>
+      <pubDate>Mon, 21 Aug 2017 21:29:29 +0000</pubDate>
+      
+      <guid>https://akrisanov.com/post/2017-08-21-six-steps-to-maintain-your-gemfile/</guid>
+      <description>If you work with Ruby, you use Bundler all the time, I believe. Bundler manages all the gems that the application or library depends on. You just have to define them in Gemfile and execute a proper command for installing or updating your libraries. Sounds easy, right? But you, of course, know that is not 100% true for big projects or for projects where the team does releases frequently during the day.</description>
+    </item>
+    
+  </channel>
+</rss>
